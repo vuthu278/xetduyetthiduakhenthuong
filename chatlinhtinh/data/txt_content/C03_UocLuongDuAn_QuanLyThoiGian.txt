@@ -1,0 +1,1417 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP.HCM
+KHOA CÔNG NGHỆ THÔNG TIN
+1NỘI DUNG
+3.1. Cáctínhchất vàtầmquan trọng củaước
+lượng dựánHTTT
+3.2. Ước lượng dữliệudựán
+3.3. Ước lượng vàquản lýthờigian dựán
+3.4. Ước lượng cáchoạt động hỗtrợdựán
+3.5. Triển khai lịchbiểu
+3.6. Quản lýlịchbiểu
+2Bảng phân rãcông việc
+3Cáctínhchất vàtầmquan trọng củaướclượng dự
+ánHTTT
+•Thống kêcủaStandish Group (2006 )
+–50%trong sốcácdựánphần mềm thấtbại
+–Chỉcó16.2%dựánlàhoàn thành đúng hạnvà
+nằm trong giới hạnngân sách, đáp ứng tấtcả
+tínhnăng vàđặctínhnhưcam kếtbanđầu
+–52.7%dựánđược hoàn thành vàđivào hoạt
+động nhưng không hoàn thành đúng hạnvàbội
+chi,không đápứngđầyđủtínhnăng vàđặctính
+nhưthiết kếbanđầu
+–Có31.1%dựánthất bạitrước khiđược hoàn
+thành
+4Cáctínhchất vàtầmquan trọng củaướclượng dự
+ánHTTT
+•Thống kêcủaStandish Group (2011-2015 )
+5Cáctínhchất vàtầmquan trọng củaướclượng dự
+ánHTTT
+•Tạisaocácdựánbịthất bại?
+–Không hoàn thành đúng hạn
+–Chiphívượt quádựtoán
+–Chất lượng không đảm bảo
+–Ngay từkhithiết lậpdựán,không cókếhoạch
+tốtvídụnhưkhông xácđịnh rõmục tiêu,không
+thống nhất rõyêu cầu,thời gian vàkinh phí
+không thực tế.
+–Trong khithực hiện dựán:phân tíchvàthiết kế
+sailầm,không đượcvăn bản hóa,điều phối
+nguồn lựckhông đúng ,thiếu công cụhỗtrợ
+6Cáctínhchất vàtầmquan trọng củaướclượng dự
+ánHTTT
+•Các dựánthành công làcácdựán:
+–Đúng thờihạn,trong phạm vikinh phíchophép .
+–Nhóm thực hiện không cảm thấy bịkiểm soátquá
+mức.
+–Khách hàng thỏa mản:
+•Sảnphẩm củadựángiảiquyết được vấnđề.
+•Được tham giavàoquátrình QLDA.
+–Người quản lýhàilòng vớitiếnđộ.
+→Đểthành công cần phải ướclượng dựán
+HTTT
+7ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Mục tiêu:
+•Biết được cách ước lượng dữliệudựán
+Nộidung:
+•Ước lượng dữliệu
+Ước lượng:
+•Dự đoán dữliệucần thiết để hoàn thành (cáccông
+việc) dựán
+8ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+9ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Tính hướng tâm:
+•Mean = The average value (the arithmetic average)
+𝑆𝑢𝑚𝑜𝑓𝑡ℎ𝑒𝑑𝑎𝑡𝑎𝑝𝑜𝑖𝑛𝑡𝑠
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓𝑑𝑎𝑡𝑎𝑝𝑜𝑖𝑛𝑡𝑠
+•Sum of data points = 130
+•Number of data poins =10
+•Mean =130/10 =13
+=XSt. No 1 2 3 4 5 6 7 8 9 10
+Observations 10 14 11 10 10 10 15 18 22 10
+10ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Tính hướng tâm:
+•Mode = the data point having the highest frequency 
+(maximum Occurrences)
+•Mode = 10, as 10 occurs 5 times in the data set shownSt. No 1 2 3 4 5 6 7 8 9 10
+Observations 10 14 11 10 10 10 15 18 22 10
+11ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Tính hướng tâm:
+•Median =the50%point, orthe“middle number”
+•Tofindthemedian ofadata set
+(1)Arrange data inorder from smallest tolargest
+(2)Iftheno.ofdata points isold, themiddle number isthe
+median
+(3)Iftheno.ofdata point isevent thethemedian isthe
+arthmetric average ofthe2numbers thatareinthemiddle
+•Median :No.ofdata point =10(event)
+•Median =(5+6)/2=11/2=5.5→10&11aremedianSt. No 1 2 3 4 5 6 7 8 9 10
+Observations 10 10 10 10 10 11 14 15 18 22St. No 1 2 3 4 5 6 7 8 9 10
+Observations 10 14 11 10 10 10 15 18 22 10
+12ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Tính biến đổi(phân tán):
+•Median =(5+6)/2=11/2=5.5→10&11aremedian
+13ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Độđocủabiến đổi(phân tán):
+•Todescrible how farthedata isspread :phân biệtmức độlan
+truyền củadữliệu
+•Range (Phạm vi)=R:thedifference between largest and
+smallest observations (minimum &maximum data points) .Sự
+khác biệtgiữa giátrịlớnnhất vànhỏnhất
+•Moving Range (Phạm vidichuyển )–MR:thedifference
+between consecutive observations .Sựkhác biệt giữa cáclần
+quan sátliêntiếp
+•Standard Deviation (Độlệch chuẩn )=s
+•Variance(Ph ươngsai)=s2(just thesquare ofthestddeviation!)
+14ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Phạm vi:
+•Range :Difference between highest andlowest values
+•Range indata setshown above is15–11=4
+•Range indata setshown above is22–10=12Sl. No 1 2 3 4 5
+Observations 11 13 14 15 12
+Sl. No 1 2 3 4 5 6 7 8 9 10
+Observations 10 14 11 10 10 10 15 18 22 10
+15ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Biến (khác biệt)vàđộlệch chuẩn :
+•Step 1:Find themean ofthedata (x=(11+13+14+15+12)/5=13)
+•Step 2:Find thedifference ofeach data point from themean
+•Step 3:Square thedifferences andadd=4+1+4+1=10
+•Step 4:Variance =Divide by(n-1)=10/4=2.50
+•Step 4:Standard Deviation =Take Square root =sqrt(2.50)
+=1.5811Sl. No 1 2 3 4 5
+Observations 11 13 14 15 12
+Sl. No 1 2 3 4 5
+Observations 11 13 14 15 12
+X-mean (11-13)= -2(13-13)=0 14-13=1 15-13=2 12-13= -1
+16ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Đồthịdichuyển (Run chart) :
+•Run chart :biểu diễn dữliệumộtcách trựcquan ,môtảsựxuất
+hiện củamỗiphép đotheo thứtựmànóđược thuthập
+17ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Histogram :
+•Đểsắpxếpvàhiển thịdữliệutheo thứtự.
+•Hiển thịtầnsuấtxuất hiện.
+•Biểu diễn phương saibằng hình ảnh
+18ƯỚC LƯỢNG DỮ LIỆU DỰ ÁN 
+Xây dựng Histogram :
+19QUẢN LÝ THỜI GIAN DỰ ÁN 
+(PROJECT TIME MANAGEMENT) 
+Mục tiêu:
+•Biết được cách quản lýthời gian dựán
+Nộidung:
+•Ước lượng thời gian
+Ước lượng:
+•Dự đoán thời gian cần thiết để hoàn thành (các
+công việc) dựán
+20TẦM QUAN TRỌNG CỦA QUẢN LÝ THỜI GIAN
+(PROJECT TIME MANAGEMENT) 
+•Quản lýthời gian dựánlàbaogồm cácquytrình
+cầnthiết đểđảm bảodựánđược hoàn thành đúng
+hạnvàtheo lịchtrình đãthỏa thuận .
+•Vai tròcủa quản lýthời gian:thời gian làmột
+trong bayếutốquan trọng ràng buộc của dựán
+quyết định sựthành công củadựán(thời gian,chi
+phívàchất lượng).
+21QUI TRÌNH QUẢN LÝ THỜI GIAN
+(PROJECT TIME MANAGEMENT) 
+1.Xácđịnh cáchoạt động
+2.Thiết lậpthứtựcủacáchoạtđộng
+3.Ước tínhtàinguyên hoạt động
+4.Ước tínhthờilượng hoạt động
+5.Xây dựng lịchtrình
+6.Kiểmsoátthực hiện lịchtrình
+221. XÁC ĐỊNH CÁC HOẠT ĐỘNG
+•Cácgóicông việc củadựánđượcchia nhỏthành
+những thành phần gọilàcáchoạt động
+•Xác định cáchoạt độngcụthểnhằm
+–Tạoranhững sảnphẩm trung gian củadựán
+–Làm cơsởchoviệc ướclượng,lậplịch,thực thivà
+điềukhiển công việc củadựán
+231. XÁC ĐỊNH CÁC HOẠT ĐỘNG
+•Nguồn dữliệu: dựavàocáctàiliệu
+–Tàiliệukhởi động dựán.
+–Bảntuyên bốdựánvàthông tinvềngân sách.
+–Tuyên bốphạm vivàWBS
+–Xác định hoạt động giúp phát triển WBS chitiếthơn,
+gồm cácgiảithích đểhiểu được tấtcảnhững việc cần
+làm,nhằm cóđược cácước lượng phùhợp vớithực
+tế.
+241. XÁC ĐỊNH CÁC HOẠT ĐỘNG
+•Danh sách hoạt động làmộtbảng cáchoạt động
+được đưavàolịchtrình dựánbaogồm:
+–Tênhoạt động
+–Mãsốnhận dạng hoạt động
+–Môtảngắn gọnvềhoạt động
+251. XÁC ĐỊNH CÁC HOẠT ĐỘNG
+•Các thuộc tính hoạt động :cung cấp nhiều
+thông tin
+–Hoạt động trước
+–Hoạt động kế
+–Mốiquan hệlogic
+–Thời gian sớm vàtrễ
+–Yêucầutàinguyên
+–Cácràng buộc
+–Cácgiảđịnh liênquan đếnhoạt động
+261. XÁC ĐỊNH CÁC HOẠT ĐỘNG
+•Kếtquảcủaquytrình xácđịnh cáchoạt động
+–Danh sách hoạt động
+–Thuộc tínhhoạt động
+–Danh sách cácmốc thờigian củamỗihoạt động
+272. THIẾT LẬP TUẦN TỰ CÁC HOẠT ĐỘNG
+•Xem xétcáchoạt động vàxácđịnh quan hệ
+phụ thuộc .
+–Phụ thuộc bắtbuộc :cốhữudobảnchất công việc.
+–Phụ thuộc tùyýhoặc ưutiên:đượcxácđịnh bởinhóm dựán.
+–Phụ thuộc bênngoài :liênquan giữa cáchoạt động bêntrong
+vàbênngoài dựán.
+•Dùng Phương pháp CPM (Critical Path Method)
+đểxácđịnh cácquan hệphụthuộc .
+284. ƯỚC L ƯỢNG THỜI GIAN CHO MỖI HOẠT ĐỘNG
+•Cóthểsửdụng nhiều kỹthuật khác nhau tùythuộc
+loại dựán.Các phương pháp đượcsửdụng hiện
+nay:
+–CPM :thờigian mỗicông việc làthờigian xácđịnh.
+–PERT :dựa trên 3thông sốgồm :tính thời gian mong muốn (kỳ
+vọng )củathờigian thuận lợi(lạcquan ),thờigian không thuận lợi(bi
+quan )vàthờigian trung bình thực hiện được công việc đó.
+–Lập bảng phân tích CPM/PERT vàxácđịnh đường tớihạn(biểu
+diễn bằng sơđồGANTT) vàxácđịnh thờigian hoàn thành cảdựán.
+295. KỸ THUẬT LẬP LỊCH
+Các kỹ thuật ước lượng
+•Ước lượng phi hình thức
+•Ước lượng dựa trên năng suất toàn cục
+•Các phương pháp sơ đồ mạng :
+–Sơ đồ ADM
+–Sơ đồ PDM
+–Sơ đồ ngang (Gantt chart )
+–Sơ đồ xiên (Cyclogram)
+–Sơ đồ mạng đường găng CPM (Critical Path Method)
+–Kỹ thuật đánh giá và kiểm tra PERT (Program Evaluation and 
+Review Technique)
+•Hai PP sau được sử dụng năm 1958 -1960 trong dự ánchế
+tạotênlửaPolaris củahảiquân Mỹ
+305. KỸ THUẬT LẬP LỊCH
+Ước lượng phi hình thức
+Dựa trênkinh nghiệm chủquan , cảm tính
+•Ưu điểm :
+–Nhanh
+–Dễápdụng
+•Nhược điểm :
+–Kếtquảthiếu tin cậy
+–Thiếu tínhkhoa học
+•Ápdụng trong các trường hợp :
+–Đội ngũ chuyên môn đã có nhiều kinh nghiệm thực tiễn
+–Có năng suất lao động cao
+–Có đội hình cố định
+–Dự án đã quy định, bắt buộc phải theo
+315. KỸ THUẬT LẬP LỊCH
+Ước lượng phihình thức -Ước lượng theo lịchsử
+•Ước lượng dựatrên những công việc tương tựđã
+thực hiện trong dựántrước
+•Thường không được xem làcách ướclượng chính
+thống
+325. KỸ THUẬT LẬP LỊCH
+Ước lượng dựa trên năng suất toàn cục:
+•Giả thiết lý tưởng rằng mọi thứ đều hoàn hảo 100%
+•Xây dựng bảng “khiếm khuyết” đối với công việc
+•Khiếm khuyết là những điểm có thể ảnh hưởng xấu đến tiến 
+độ công việc
+•Vídụ:
+335. KỸ THUẬT LẬP LỊCH
+Ước lượng dựa trên năng suất toàn cục:
+Cách tính năng suất toàn cục
+•Thời gian tổng cộng :
+Hoàn hảo+ Khiếm khuyết = 100% + 45% = 145%
+•Sử dụng quy tắc tam suất suy ra thời gian ước tính để thực hiện 
+công việc cụthể:
+–Thời gian lý tưởng T giờ → 100%
+–Thời gian ước lượng X giờ → 145%
+–X = (T x 145% giờ)/100%
+•Nhận xét:
+–Rất đơn giản, mang tính chủ quan
+–Nhanh , thuận tiện
+–Khi điều chỉnh bảng “khiếm khuyết”, dễ dàng tính lại thời gian
+–Hay được dùng
+•Hạn chế: Nghi ngờvềtínhchính xáckhitínhthờigian Khiếm khuyết
+345. KỸ THUẬT LẬP LỊCH
+•Sơđồmạng (Project Network Diagrams) :Cách tiếp
+cậncơbảncủakỹthuật lậpkếhoạch tiến độlàxây
+dựng mạng lướicông việc vàmối quan hệgiữa
+chúng .
+•Sơđồmạng giúp :
+–Hiểnthịcácmốiquan hệưutiêngiữa cáchoạt động
+–Giúp hiểu được luồng công việc trong mộtdựán
+–Lậpkếhoạch vàkiểm soátdựán,lậplịchtrình dựán.
+“A picture is worth a thousand words”
+355. KỸ THUẬT LẬP LỊCH
+Các phương pháp sơđồmạng :
+1.Sơđồmạng AON (Action on Node): dùng trong cácứng
+dụng thuộc hệthống thông tin, cácngành công nghiệp
+thiết kếvàmua bán
+2.Sơđồmạng AOA(Action on Arrow): sửdụng cáchoạt
+động giảkhông tốnthờigian, được dùng trong cácứng
+dụng kỹthuật
+3.SơđồCPM: Critical Path Method –phương pháp đường
+găng
+4.SơđồPERT: Program and Evalution Review Technique 
+–Kỹthuật đánh giávàkiểm soát chương trình
+365. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AON Networks)
+–Kỹthuật AON được sửdụng đểvẽsơđồmạng lịchtrình
+dựán,xácđịnh định đườngcritical vàđộtrễcủamỗi hoạt
+động .
+–Trong sơđồAON, mỗihộphình chữnhật đạidiện chomột
+nútvàmốiquan hệgiữa cáchoạt động trong dựán.
+–AON nhấn mạnh cáchoạt động vàkhông liênquan đếncác
+hoạt động giả
+Sơ đồ PDM
+–Là sơ đồ mạng được dùng phổ biến, thuộc loạiAON
+375. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AON Networks)
+–Kỹthuật AON sửdụng 4loạimốiquan hệ:FS,FF,SS,SF
+–FS(Finish -to-start) :Một công việc đượcbắtđầuphụthuộc
+vàosựkếtthúc củacông việc trước.
+KhiA kếtthúc thìB bắtđầu
+385. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AON Networks)
+–FF(Finish -to-Finish) :Kếtthúc hoạt động thứnhất làcần
+thiết đểhoạt động thứhaikếtthúc
+KhiA kếtthúc thìB kếtthúc
+395. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AON Networks)
+–SS(Start -to-start ):Hoạt động thứhaichỉbắtđầu
+saukhihoạt động đầutiênbắtđầu
+Sau khiA bắtđầuthìB 
+bắtđầu
+405. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AON Networks)
+–SF(Start -to-Finish) :Việc hoàn thành hoạt động thứhaiphụ
+thuộc vàoviệc kếtthúc hoạt động đầutiêntrước.
+KhiA kếtthúc thìkếtquả
+củaA sẽảnhhưởngđến
+việc kếtthúc củaB 
+415. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AON Networks):
+Vídụ: Xét dự án thi công một nhà công nghiệp một tầng kết cấu cột bê 
+tông cốt thép, tường gạch, dàn thép của công ty ABC. Sau khi ký hợp 
+đồng thi công, dự án bắt đầu bằng: 
+1.Công việc chuẩn bị thi công (công việc A) 
+2.Gia công vì kèo tại xưởng (công việc B). 
+3.Quá trình thi công móng (công việc C) có thể bắt đầu khi công việc chuẩn bị thi 
+công hoàn tất. 
+4.Phần việc vận chuyển đến công trường và khuếch đại dàn (công việc D) có thể 
+thực hiện ngay khi dàn vì kèo đã gia công xong. 
+5.Khi móng đã thi công xong, có thể thực hiện đúc bê tông cột (công việc E) và 
+6.Thi công hệ thống thoát nước (công việc F). 
+7.Vì kèo mái có thể lắp đặt (công việc G) sau khi đã thi công cột và khuếch đại 
+xong dàn vì kèo. Cuối cùng, khi hệ thống thoát nước và công việc lắp đặt mái 
+hoàn tất, thì có thể tiến hành 
+8.Công việc hoàn thiện (công việc H)425. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AON Networks):
+Vídụ: cáccông việc củadựánthicông nhàở củactyABC
+Công việc Môtảcông việc Công việc
+làmtrướcThời gian dựkiến
+(tuần )
+A Chuẩn bịthicông - 2
+B Gia công vìkèotạixưởng - 3
+C Thicông móng A 2
+D Vận chuyển vàkhuếch đạihàn B 4
+E Thực hiện đúcbêtông cột C 4
+F Thicông hệthống thoát nước C 3
+G Lắpđặtvìkèomái D, E 5
+H Hoàn thiện F, G 2435. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu 
+tiên(AON Networks)
+•PDM ( Precendence
+Diagramming  Method)Công
+việcMôtảcông việc Công việc
+làmtrướcThời gian dự
+kiến (tuần )
+A Chuẩn bịthicông - 2
+B Gia công vìkèotạixưởng - 3
+C Thicông móng A 2
+D Vận chuyển vàkhuếch đại
+hànB 4
+E Thực hiện đúcbêtông cột C 4
+F Thicông hệthống thoát
+nướcC 3
+G Lắpđặtvìkèomái D, E 5
+H Hoàn thiện F, G 2
+44Bắt
+đầu
+D=0
+B
+D=3A
+D=2C
+D=2
+E
+D=4
+D
+D=4G
+D=5F
+D=3
+H
+D=25. KỸ THUẬT LẬP LỊCH
+Bàitập
+45Công
+việcCông việc
+làmtrướcThời gian
+dựkiến
+(tuần )
+A - 1
+B - 5
+C - 6
+D - 4
+E A 4
+F B 3
+G C 3
+H D 4Công việc Công việc
+làmtrướcThời gian
+dựkiến
+(tuần )
+I E, F 2
+K G,I 2
+M I 6
+L I 3
+N K 2
+O L, N, M 1
+P G, I, H 2
+Q G, I, H 3
+R O, P 2
+S R, Q 15. KỸ THUẬT LẬP LỊCH
+Bàitập
+46Bắtđầu
+D=0A
+D=1
+B
+D=5
+D
+D=4C
+D=6E
+D=4
+G
+D=3F
+D=3
+H
+D=4K
+D=2I
+D=2
+L
+D=3M
+D=6
+O
+D=1
+N
+D=2
+P
+D=2
+Q
+D=3R
+D=2
+S
+D=1Công việc Công việc
+làmtrướcThời gian
+dựkiến
+(tuần )
+A - 1
+B - 5
+C - 6
+D - 4
+E A 4
+F B 3
+G C 3
+H D 4Công việc Công việc làm
+trướcThời gian dự
+kiến (tuần )
+I E, F 2
+K G,I 2
+M I 6
+L I 3
+N K 2
+O L, N, M 1
+P G, I, H 2
+Q G, I, H 3
+R O, P 2
+S R, Q 15. KỸ THUẬT LẬP LỊCH
+47Bàitập
+STT Công
+việcCông
+việc
+trướcThời
+gian
+1 A - 3
+2 B - 4
+3 C A 4
+4 D A 5
+5 E A 2
+6 F C 3
+7 G B 2
+8 H C,D,E 7
+9 I H,G 6
+10 K F,I 3
+5. KỸ THUẬT LẬP LỊCH
+•Phương pháp vẽ biểu đồ mũi tên (Activity on 
+Arrow –AOA)
+–Cáchoạt động được thểhiện bằng mũitên
+–Núthoặc vòng tròn lànhững điểm bắtđầuvàđiểm kết
+thúc cáchoạt động
+–Chỉsửdụng loạiphụthuộc finish -to-start
+–Sửdụng công việc giả(một công việc không tồntại,
+không tốnthời gian,dùng đểduytrìmối quan hệgiữa
+cáchoạt động )biểu diễn bằng mũitênđứtnét
+–Một sốbiểu diễn duynhất mộthoạt động
+485. KỸ THUẬT LẬP LỊCH
+Phương pháp vẽ biểu đồ mũi tên (Activity on 
+Arrow –AOA) 
+Sơ đồ ADM -Arrow Diagramming Method
+•Là sơ đồ mạng truyền thống, thuộc loại AOA
+•Thường triển khai từ trái qua phải
+•Nútchứa mãsốduynhất, biểu diễn cho1 mốc sựkiện
+•Mã số trên nút nhìn chung tăng theo trật tự từtráiqua phải
+•Mũi tên đại diện cho công việc, đi từ nút này đến nút khác
+•Tênvàthờigian công việc ghitrênmũitênvà không cần tỷ 
+lệ với độ dài mũi tên
+•Nếu công việc B có công việc trước là A thì nút kết thúc 
+của A là nút bắt đầu của B
+49
+5. KỸ THUẬT LẬP LỊCH
+Công việc thực:4 5Đổ BT 
+móng
+10 ngàyCông việc ảo: 1 2Đào đất 
+móng3 4 Lắp ghép 
+móng
+2 ngày Công việc chờ đợi
+Công việc nối tiếp nhau:
+Hai công việc cùng bắt đầu:
+Hai công việc cùng kết thúc:1 2A B
+1 BA
+1A
+B5 ngàyMột sốđịnh nghĩa vềcông việc:
+50
+5. KỸ THUẬT LẬP LỊCH
+Một sốđịnh nghĩa vềsựkiện:
+Sựkiện đầu
+Sự kiện cuối2A
+2BSự kiện xuất phát 1
+Sự kiện hoàn thành8
+Đường: chuỗicáccông việcsắpxếpliêntục
+Đườnggăng : đườngcóđộdàilớnnhất
+Mạnglưới: phốihợpgiữanútvàcung
+Tàinguyên : Dựtrữđược/Không dựtrữđược
+Thờigiancông việc
+515. KỸ THUẬT LẬP LỊCH
+Cách xâydựng sơđồmạng
+Vídụlắpghép mộtkhung nhàcông nghiệp
+1.Làm móng nhà5 ngày
+2.Vận chuyển cầntrục1 ngày
+3.Lắpdựng cầntrục3 ngày
+4.Vận chuyển cấukiện 4 ngày
+5.Lắpghép khung nhà7 ngày
+525. KỸ THUẬT LẬP LỊCH
+Phương pháp vẽ biểu đồ mũi tên (Activity on Arrow –
+AOA)Quytắclậpsơđồ
+mạng:
+-Đánh số
+-Tách vànhậpcông việc
+-Đơngiản
+-Phảnánhquan hệ
+Xácđịnh
+WBSLập sơ
+đồmạng
+Tính thời 
+gian, chi phí
+công việcXác định 
+đường găng,
+thời gian DA 2
+76
+5
+43 1
+FB
+CD G
+EA
+KI
+535. KỸ THUẬT LẬP LỊCH
+•Phương pháp sơ đồ ưu tiên (AOA Networks):
+Vídụ: cáccông việc củadựánthicông nhàở củactyABC
+Công việc Môtảcông việc Công việc
+làmtrướcThời gian dựkiến
+(tuần )
+A Chuẩn bịthicông - 2
+B Gia công vìkèotạixưởng - 3
+C Thicông móng A 2
+D Vận chuyển vàkhuếch đạihàn B 4
+E Thực hiện đúcbêtông cột C 4
+F Thicông hệthống thoát nước C 3
+G Lắpđặtvìkèomái D, E 5
+H Hoàn thiện F, G 2545. KỸ THUẬT LẬP LỊCH
+Phương pháp vẽ 
+biểu đồ mũi tên
+(Activity on Arrow –
+AOA)
+55Công
+việcMôtảcông việc Công việc
+làmtrướcThời gian dự
+kiến (tuần )
+A (2) Chuẩn bịthicông - 2
+B (3) Gia công vìkèotạixưởng - 3
+C (4) Thicông móng A 2
+D (5) Vận chuyển vàkhuếch đại
+hànB 4
+E Thực hiện đúcbêtông cột C 4
+F Thicông hệthống thoát
+nướcC 3
+G (6) Lắpđặtvìkèomái D, E 5
+H (7) Hoàn thiện F, G 2
+12
+34
+56 7C(2)
+D(4)E(4)H(2)5. KỸ THUẬT LẬP LỊCH
+Phương pháp vẽ biểu đồ mũi tên (Activity on Arrow –AOA)
+•Vídụ:công việc acóđộdài5ngày, công việc bcóđộ
+dài3ngày, công việc ccóđộdài4ngày, công việc dcó
+độdài5ngày, công việc bvàcđược tiếnhành saucông
+việc a,công việc dchỉđược tiếnhành saukhibvàcđã
+kếtthúc
+565. KỸ THUẬT LẬP LỊCH
+Phương pháp vẽ biểu đồ mũi tên (Activity on Arrow –AOA): ADM
+57
+5. KỸ THUẬT LẬP LỊCH
+Bàitập
+58Công
+việcCông việc
+làmtrướcThời gian
+dựkiến
+(tuần )
+A - 1
+B - 5
+C - 6
+D - 4
+E A 4
+F B 3
+G C 3
+H D 4Công việc Công việc
+làmtrướcThời gian
+dựkiến
+(tuần )
+I E, F 2
+K G,I 2
+M I 6
+L I 3
+N K 2
+O L, N 1
+P G, I, H 2
+Q G, I, H 3
+R O, P 2
+S R, Q 15. KỸ THUẬT LẬP LỊCH
+Bàitập
+5912
+3
+4
+56 7
+8910
+11
+131214I=2Công
+việcCông
+việc làm
+trướcThời
+gian dự
+kiến
+(tuần )
+A - 1
+B - 5
+C - 6
+D - 4
+E A 4
+F B 3
+G C 3
+H D 4Công việc Công việc làm
+trướcThời gian dự
+kiến (tuần )
+I E, F 2
+K G,I 2
+M I 6
+L I 3
+N K 2
+O L, N 1
+P G, I, H 2
+Q G, I, H 3
+R O, P 2
+S R, Q 15. KỸ THUẬT LẬP LỊCH
+Phươngpháp đườngGăng (CMP -Critical Path Method) :
+–Dùnglýthuyết đồthịcóhướng đểxácđịnh đường đitrong mạng,
+từthời điểm khởi công dựánđếnthời điểm kếtthúc dựán,qua
+mộtsốcáccông việc vàcácmốiquan hệgiữa cáccông việc này,
+cóchiều dàilớnnhất.
+–Ápdụng chocácdựáncông nghiệp vớithờigian cáchoạt động đã
+biếtmột cách chắc chắn .CPM chophép việc chọn lựagiảm thời
+gian hoạt động bằng cách bổsung nguồn nhân lựcvàtàinguyên ,
+vớichiphígiatăng.
+605. KỸ THUẬT LẬP LỊCH
+•Đườngtớihạn(Critical Path):
+–Critical path Làđường dàinhất trong sơđồmạng ,được tính
+bằng cách cộng dồn thời gian củacáccông việc trên đường
+này.Không chophép saikếhoạch .
+–Cách tìmđường tớihạn:
+•Bắtđầuvớimộthoạt động trong sơđồmạng
+•Tìm tấtcảcácđường trong sơđồmạng
+•Điền thời gian củamỗi hoạt động vàocácđường trong sơ
+đồmạng
+•Đường tớihạnlàđường cóthời gian dàinhất trong sơđồ
+mạng
+615. KỸ THUẬT LẬP LỊCH
+•Đườngtớihạn(Critical Path):
+62STT Công
+việcCông
+việc
+trướcThời
+gian
+1 A - 3
+2 B - 4
+3 C A 4
+4 D A 5
+5 E A 2
+6 F C 3
+7 G B 2
+8 H C,D,E 7
+9 I H,G 6
+10 K F,I 3
+5. KỸ THUẬT LẬP LỊCH
+•Đườngtớihạn(Critical Path):
+–Thời gian trễ(float or slack) :lượng thời gian của 
+họat động dự án có thể trễ.
+–Tìm thời gian trễcủacáchoạt động :
+•Vẽsơđồmạng ,xácđịnh đường tớihạn
+•Độtrễcủamọihoạt động trong đường tớihạnlà0
+•Tìm đường dàinhất kếtiếp
+•Độtrễcủamỗi hoạt động =thời gian củađường
+tớihạn–thời gian củađường đang xét.
+635. KỸ THUẬT LẬP LỊCH
+•Đườngtớihạn(Critical Path):
+–Vídụ:
+Đường tớihạn:St→A→B→C→Fi=11
+Độtrễ: 
+Start→D→E→Finish =11-7=4,  St→D→F→G→Fi=11-7=4
+645. KỸ THUẬT LẬP LỊCH
+•Đườngtớihạn(Critical Path):
+•Vídụ:
+11
+655. KỸ THUẬT LẬP LỊCH
+•Đườngtớihạn(Critical Path):
+•Bàitập: Tìm đườngcritical vàđộtrễcủacáccông
+việc trênsơđồmạng
+665. KỸ THUẬT LẬP LỊCH
+Đườngtớihạn(Critical Path):
+•Bàitập: Lậplịchtrình chocáccông việccủamộtdựán, 
+tìmđườngtớihạn(critical path), độtrễcủamỗicông
+việc
+675. KỸ THUẬT LẬP LỊCH
+Đườngtớihạn(Critical Path):
+•Bàitập: Lậplịchtrình chocáccông việccủamộtdựán, tìmđườngtớihạn
+(critical path), độtrễcủamỗicông việc
+68STT Công việc Công việc
+trướcThời gian
+1 A - 2
+2 B - 3
+3 C A 3
+4 D A 4
+5 E B 3
+6 F C 5
+7 G E, F 2
+8 H D, G 35. KỸ THUẬT LẬP LỊCH
+PERT -Project Evaluation and Review Technique
+•PERT làphương pháp probabilistic :Làkỹthuật ướclượng hình
+thức,sửdụng kỹthuật mạng đểướctínhthờigian khicósựkhông
+chắc chắn vềứơctínhthờigian củamỗicông việc.
+•PERT :làhình thức phổbiến nhất củaThree -point estimating .Ra
+đờicùng thờigian vớiCPM vàbảnchất làCPM .
+•Thích hợp đối với các dự án đòihỏitínhsáng tạocao, coi trọng 
+chất lượng kết quả công việc hơn là thời gian hoàn thành dựán
+•Một sơ đồ PERT chỉ có một điểm đầu và một điểm cuối
+•Mỗi nútbiểu thịmộthoạt động hay sựkiện vàmỗicung biểu thị
+quan hệtrình tự(Activity on Node –AON). 
+695. KỸ THUẬT LẬP LỊCH
+•PERT -Project Evaluation and Review Technique
+–Thông tin trên mỗinode
+•Khicómạng dựán, thực hiện việc đánh sốthứtựchomỗi
+nútvàghingay thờigian hoàn thành củamỗihoạt động .
+705. KỸ THUẬT LẬP LỊCH
+–Một công việc liênquan đến4 loạithời gian
+•ES (Early Start): thờigian sớm nhất cóthểbắtđầucông việc.
+•EF(Early Finish): thờigian sớm nhất cóthểkếtthúc công
+việc.
+•LS(Late Start): thờigian muộn nhất cóthểbắtđầucông việc.
+•LF(Late Finish): thờigian muộn nhất cóthểkếtthúc công
+việc
+715. KỸ THUẬT LẬP LỊCH
+PERT -Project Evaluation and Review Technique
+•Cách tính ES, EF, LS, LF củamỗinode trong sơđồ
+–Vớihoạt động đầutiên:
+–ES (early start) = 1. 
+–EF = ES + thời gian-1. 
+Vídụ:
+Activity A : ES = 1, EF = 1 + 6 -1 = 6.
+725. KỸ THUẬT LẬP LỊCH
+•Cách tính ES, EF, LS, LF củamỗinode trong sơđồ
+–Vớimỗihoạt động kếtiếptrong sơđồ:
+•ES = EF củahoạt động trước + 1
+Vídụ:
+Activity B : ES = 6 + 1 = 7, 
+EF = 7 + 5 -1 = 11
+Activity C bắtđầukhiB vàD hoạt động :
+TạiB: ES = 6 + 1 = 7,  EF = 7 + 5 -1 = 11.
+TạiD: ES =1, EF = 1 + 2 –1 = 2
+EF củaB > EF củaD ➔chọn EF củaB đểtính ES củaC 
+TạiC:  ES = 11 + 1 = 12, EF = 12 + 7 –1 = 18
+735. KỸ THUẬT LẬP LỊCH
+•Cách tính ES, EF, LS, LF củamỗinode trong sơđồ
+–KếtquảES, EF
+745. KỸ THUẬT LẬP LỊCH
+•Cách tính ES, EF, LS, LF củamỗinode trong sơđồ
+–Cách tính LS vàLF
+•LF (last finish) củahoạt động cuối bằng EF (Early finish): LF = EF
+•LS (last start) = LF –thời gian +1
+VídụtạiC: LS = 18 -7 + 1 = 12
+–Di chuyển lùivềhoạt động trước trong đường dẫn.
+•LF = LS  củahoạt động kế-1 
+•LS = LF –thời gian+ 1 
+75
+5. KỸ THUẬT LẬP LỊCH
+•Cách tính ES, EF, LS, LF củamỗinode trong sơđồ
+•ES của 1 công việc = max {EF của mọi công việc 
+trước trực tiếp +1}
+•LF của 1 công việc trước trực tiếp = min {LS công 
+việc đi sau -1} 
+765. KỸ THUẬT LẬP LỊCH
+Di chuyển lùivềhoạt động trướctrong đườngdẫn
+LF = LS củahoạt động kế-1
+LS = LF –thờigian +1
+VídụtạiB: 
+LF = LS  củahoạt động kế-1 ➔LF = 12 -1 = 11. 
+LS = LF –thờigian+ 1 = 11 -5 + 1 = 7
+775. KỸ THUẬT LẬP LỊCH
+Bàitập: Tính ES, EF, LS, LF chocáccông việc củadựánthicông
+nhàở củactyABCCông việc Môtảcông việc Công việc
+làmtrướcThời gian dựkiến
+(tuần )
+A Chuẩn bịthicông - 2
+B Gia công vìkèotạixưởng - 3
+C Thicông móng A 2
+D Vận chuyển vàkhuếch đạihàn B 4
+E Thực hiện đúcbêtông cột C 4
+F Thicông hệthống thoát nước C 3
+G Lắpđặtvìkèomái D, E 5
+H Hoàn thiện F, G 25. KỸ THUẬT LẬP LỊCH
+PERT -Project Evaluation and Review Technique
+785. KỸ THUẬT LẬP LỊCH
+Vídụ: cáccông việc củadựánthicông nhàở củactyABC5. KỸ THUẬT LẬP LỊCH
+•PERT -Project Evaluation and Review Technique
+Côn
+g
+việcMôtảcông việc Công việc
+làmtrướcThời gian dự
+kiến (tuần )
+A Chuẩn bịthicông - 2
+B Gia công vìkèotạixưởng - 3
+C Thicông móng A 2
+D Vận chuyển vàkhuếch đạihàn B 4
+E Thực hiện đúcbêtông cột C 4
+F Thicông hệthống thoát nước C 3
+G Lắpđặtvìkèomái D, E 5
+H Hoàn thiện F, G 2
+5G
+LS=4 -3Thời gian
+dựkiến
+EF=3+4
+LF=min(4)Min(13,13)ES=Max(13,7)
+795. KỸ THUẬT LẬP LỊCH
+Trình tựlậpsơđồmạng (Cách 2)
+GRij= Lj–Ei –tij
+SRij= Lj–Li–tij
+FRij= Ej –Ei–tij
+IRij= Ej –Li –tij B1: Tính thời điểm sớm của sự kiện Ej 
+B2: Tính thời điểm muộn của sự kiện Lj 
+B3: Xác định đường găng
+B4: Tính thời điểm sớm của công việc
+B5: Tính thời điểm muộn của công việc
+B6: Tính thời gian dự trữE1= 0
+Ej = Max (Ei+ tij) 
+Ln= En
+Lj = Min (Lk–tjk)
+đường dài nhất, 
+có Rj= 0
+ESij= Ei
+EFij= ESij+ tij
+LFij = Lj
+LSij= LFij–tij
+805. KỸ THUẬT LẬP LỊCH
+Vídụ: cáccông việc củadựánthicông phần mềm5. KỸ THUẬT LẬP LỊCH
+•PERT -Project Evaluation and Review Technique
+ES=0+
+8EF=Max(4,8)
+LF=Min(8,11,13)LS=8 -4
+815. KỸ THUẬT LẬP LỊCH
+Công 
+việc
+Thời 
+hạn
+Trình tự 
+thực hiện
+A
+B
+C
+D
+E
+F
+G
+I
+K
+2
+4
+4
+3
+6
+12
+4
+4
+3
+Khởi
+công
+Khởi
+công
+Khởi
+công
+sau
+A
+sau
+B
+sau
+C
+sau
+F, E, D
+sau
+G
+sau
+CBước1: E1= 0
+E2= E1+ t12= 2
+E3= E1+ t13= 4
+E4= E1+ t14= 4
+E5= max [E2+ t25; E3+ t35; E4+ 
+t45] = E4+ t45= 4+12=16
+E6=  E5+ t56= 16 + 4 = 20
+E7= max [ E4+ t47; E6+ t67] = E6+ 
+t67= 20 + 4 = 24Vídụ2
+76
+5
+43 1A,2
+B,4
+C,4D,3
+E,6
+F,12G,4I,4
+K,3
+825. KỸ THUẬT LẬP LỊCH
+2
+76
+5
+43 1A,2
+B,4
+C,4D,3
+E,6
+F,12G,4I,4
+K,3Bước 2:
+Ln= EnL7= E7= 24 ( Thờiđiểmkếtthúc muộn)
+L6= L7-t67= 24 -4 = 20 ( Thờiđiểmkếtthúc sớm)
+L5= L6-t56= 20 -4 = 16
+L4= min [L7-t47; L5-t45] = L5-t45= 4
+L3= L5-t35= 16 -6 = 10
+L2= L5-t25= 16 -3 = 13
+Bước3: 
+Sựkiện găng : 1, 4, 5, 6, 7  đườnggăng C, F, G, I
+835. KỸ THUẬT LẬP LỊCH Bước 4, 5, 6:
+Công
+việctijESij
+=EiEfij=
+ESij+tijLFij=
+LjLsij=
+LFij-tijGRij
+=Lj-
+Ei-tijSRij=
+Lj-Li-
+tijFRij=
+Ej-Ei-
+tijIRij=
+Ej-
+Li-tij
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+A (1-2) 2 0 2 13 11 11 15 0 0
+B (1-3) 4 0 4 10 6 6 14 0 0
+C (1-4) 4 0 4 4 0 0 8 0 0
+D (2-5) 3 2 5 16 13 11 8 11 0
+E (3-5) 6 4 10 16 10 6 12 6 0
+F (4-5) 12 4 16 16 4 0 24 0 0
+G (5-6) 4 16 20 20 16 0 8 0 0
+I (6-7) 4 20 24 24 20 0 8 0 0
+K (4-7) 3 4 7 24 21 17 23 17 17845. KỸ THUẬT LẬP LỊCH
+85BàitậpSơ đồ PDM
+4. Vẽ sơ đồ PDM, t ô
+đậm đường găng, tính
+chiều dàicủadựánvà
+tínhES, EF, LS, LF, 
+TF, FF chocáccông
+việc trong bảng sau
+5. KỸ THUẬT LẬP LỊCH
+86BàitậpSơ đồ PDM
+4. Vẽ sơ đồ PDM, t ôđậm đường găng, tínhchiều dàicủadựánvà
+tínhES, EF, LS, LF, TF, FF chocáccông việc trong bảng sau
+5. KỸ THUẬT LẬP LỊCH
+87BàitậpSơ đồ PDM
+5. KỸ THUẬT LẬP LỊCH
+88BàitậpSơ đồ PDM
+5. KỸ THUẬT LẬP LỊCH
+Ước lượng theo công thức Pert
+•Cầnướclượng thờigian chomỗicông việc
+–Thích hợpđốivớinhững dựánđòihỏitínhsáng tạo.
+–Coitrọng chất lượng kếtquảcông việc hơnlàthời gian hoàn
+thành dựán.
+•Cóbaloạiướclượng thờigian :
+–Ước lượng khả dĩnhất ML (Most Likely) :thời gian cầnthiết đểhoàn
+thành công việc trong điều kiện “bình thường” hay“hợp lý”
+–Ước lượng lạcquan nhất MO (Most Optimistic) :thời gian cầnthiết để
+hoàn thành công việc trong điều kiện “tốt nhất” hay“lýtưởng” (không có
+trởngại nào)
+–Ước lượng biquan nhất MP (Most Pessimistic) :thời gian cầnthiết để
+hoàn thành công việc mộtcách “tồinhất” (đầy trởngại)
+895. KỸ THUẬT LẬP LỊCH
+•Thời gian dựkiến củamột công việc
+–Công thức PERT : dựatrên3 tham số
+Thời gian dựkiến= (MO + 4(ML) + MP)/6
+–Nếu không thểxácđịnh ML thì
+Thời gian dựkiến = (2MO + 3MP)/ 5
+905. KỸ THUẬT LẬP LỊCH
+Ước lượng theo công thức Pert
+EST = (MO+4(ML)+MP)/6
+915. KỸ THUẬT LẬP LỊCH
+Ví dụ: lắp mạng nội bộ cho cơ quan
+•ESTimation : Ứớc lượng thời gian để làm dự án, Đơn vị tính: ngày
+•Ví dụ : EST = (MO+4(ML)+MP)/6 = (2+4*3+5)/6 = 19/6 ≅3.2
+925. KỸ THUẬT LẬP LỊCH
+Bàitập: lắp mạng nội bộ cho cơ quan
+•ESTimation : Ứớc lượng thời gian để làm dự án, Đơn vị tính: ngày
+Tên công việc MO ML MP EST
+Vẽ sơ đồ và khoan tường 2 3 5 3.2
+Lắp các ống gen 1 2 4 2.2
+Đi dây 1 2 4 2.2
+Lắp các hộp nối 0.5 1 2 1
+Lắp các máy tính, máy chủ, 
+Hub2 3 3 2.8
+Kết nối các máy tính, máy 
+chủ vào hệ thống dây 
+mạng1 2 4 2.2
+Thử xem mạng đã thông 
+chưa0.5 1 10 2.4
+Tổng thời gian 8 14 32 16935. KỸ THUẬT LẬP LỊCH
+Ví dụ: lắp mạng nội bộ cho cơ quan
+•Tăng thêm “một ít thời gian” cho mỗi công việc
+•Tăng thời gian tiêu phí giữa chừng
+•Thông thường tăng thêm 7% -10%
+945. KỸ THUẬT LẬP LỊCH
+Thời gian dựkiến củamột công việc
+•Vídụ:
+Thời gian thực hiện dự kiến của công việc là bao nhiêu? 
+Trường hợp không xác định được thờigian kỳvòng thìthời
+gian dựkiến làbao nhiêu ?
+955. KỸ THUẬT LẬP LỊCH
+•Thời gian thực hiện dựkiến chomột tiếntrình
+–Tiến trình làchuỗi cáccông việc nốiliềnnhau đitừ
+sựkiện xuất phát đếnsựkiện hoàn thành .
+–Thời gian thực hiện củatiến trình bằng tổng thời
+gian củacáccông việc nằm trêntiếntrình đó.
+965. KỸ THUẬT LẬP LỊCH
+Bàitoán chi phítốithiểu : 
+•Vídụ: 
+Đặtvấnđề-Giảsửchiphírútngắn công việc A,FvàGlà100
+/ngày, củacông việc B,Elà200 /ngày -Công việc nàonên
+được chọn đểrútngắn saochochiphíbỏralàítnhất màthời
+gian hoàn thành dựánlàsớm nhất
+975. KỸ THUẬT LẬP LỊCH
+•Cách giải quyết 
+–Bước 1 : Tìm đường găng dự kiến và đường găng tối 
+thiểu 
+–Bước 2 : Tìm thời gian tối đa có thể rút ngắn 
+–Bước 3 : Tìm chi phí tối thiểu tương ứng với thời gian 
+rút ngắn tối đa
+985. KỸ THUẬT LẬP LỊCH
+•Bước1: 
+–Tìm đường găng dự kiến 
+•ABCG = 3 + 5 + 4 + 5 = 17 
+•ADEFG = 3 + 2 + 5 + 6 + 5 = 21 
+–Tìm đường găng tối thiểu 
+•ABCG = 2 + 4 + 4 + 3 = 13 
+•ADEFG = 2 + 2 + 3 + 2 + 3 = 12
+995. KỸ THUẬT LẬP LỊCH
+•Bước2: tính thời gian cóthểrútngắn tốiđa
+Thời gian rútngắn tốiđa= TG trên đườngGantt tốiđa
+–TG trên đườngGantt tốithiểu
+Như vậytheo bàitoán:
+thời gian cóthểrútngắn tốiđa:21(ngày) –13(ngày) =
+8ngày
+Như vậy công việc nào được chọn để rút ngắn sao cho chi 
+phí của đề án/dự án giảm xuống thấp nhất 100
+5. KỸ THUẬT LẬP LỊCH
+•Bước3: Các công việc sẽ được rút ngắn
+–Các công việc cóchiphíthấp được phép rúttrước
+–Rút ngắn thời gian sao cho bằng thời gian trên
+đường găng tốithiểu
+1015. KỸ THUẬT LẬP LỊCH
+•Bước3: Rút ngắn các công việc trên đường găng 
+tốithiểu 
+–Công việc A: 3 -> 2 ngày = 1 ngày x 100 = 100 
+–Công việc B: 5 -> 4 ngày = 1 ngày x 200 = 200 
+–Công việc G: 5 -> 3 ngày = 2 ngày x 100 = 200
+–ĐườngGantt dựkiến: ADEFG = 2 + 2 + 5 + 6 + 3 = 18 >13 ngày
+–Rútngắn trênGantt dựkiến saochotừ18 ->13 ngày
+1025. KỸ THUẬT LẬP LỊCH
+•Bước3:Trên đường gantt dựkiến (ADEFG) chỉcó2công việc
+cóthểrútđược làEvàF
+•Công việc Fcóchiphíthấp hơn Enênchọn Frúttrước
+–Công việc F:6->2ngày =4ngày x100=400
+–Công việc E:5->4ngày =1ngày x200=200
+gantt dựkiến:ADEFG =2+2+4+2+3=13ngày
+103
+Như vậy, để rút ngắn từ 21 ngày 
+xuống 13 ngày, chi phí phải giảm 
+xuống là 11005. KỸ THUẬT LẬP LỊCH
+Ưu điểm của PERT
+•Buộc phải tính đến rất nhiều yếu tố (MO, ML, MP)
+•Buộc Người quản lý dự án phải trao đổi với nhiều người (để 
+đạt được sự đồng thuận)
+•Giá trị nhận được là giá trị cân bằng giữa hai thái cực do đó có 
+ý nghĩa và đáng tin cậy
+•Làm cho việc lập kế hoạch trở nên chi tiết hơn
+Chú ý :
+•Nếu gặp một việc có ước lượng EST quá lớn (vượt quá hai 
+tuần hoặc 80 giờ) thì phải phân rã thành nhiều công việc nhỏ 
+hơn
+1045. KỸ THUẬT LẬP LỊCH
+Nhược điểm củaPERT
+•Mấtthờigian (của mộtngười vàcủacảtậpthể), khidựáncóquá
+nhiều công việc.Tuy nhiên :thàmấtthời gian banđầucònhơn
+mấtthờigian saunày
+•Cóthểxảyratranh luận vềgiátrịthời gian biquan nhất cho
+công việc cónguy cơlàmchomọingười chán nản
+•Tuy nhiên, cầnphải xem lạinhững người tỏrachán nảnxem lại
+trình độchuyên môn, tinhthần vượt khó...củahọ
+•Cóthểdẫnđếnnhững tínhtoán rấtvụnvặt
+•Nguy cơlàmchoNgười quản lýdựánchỉ“thấy câymàkhông
+thấy rừng”
+1055. KỸ THUẬT LẬP LỊCH
+Bài tập 1:
+1.Vẽ sơ đồ PERT dựa trên bảng hoạt động sau:
+1065. KỸ THUẬT LẬP LỊCH
+Bàitập1:
+1.Vẽ sơ đồ PERT dựa trên bảng hoạt động sau:
+1075. KỸ THUẬT LẬP LỊCH
+Bàitập1:
+Để xác định đường găng trước hết
+cần tính thời hạn sớm và thời hạn
+muộn của các sự kiện:
+•ts1= 0 vì 1 là sự kiện bắt đầu
+•ts2= ts1 + ta= 0 + 3 = 3
+•ts3= ts1+ tc= 0 + 3= 3
+•ts4= max(ts1+ tb; ts2+ dh) = max(0 + 5 ; 3 + 0) = 5
+•ts5= ts3+ tf= 3+ 7 = 10
+•ts6= max(ts2 + td; ts4+ te; ts5 + tg) 
+= max(3 + 8 ; 5 + 4 ; 13 + 3) = 1 3
+1085. KỸ THUẬT LẬP LỊCH
+Bàitập1:
+•tm6= ts6 = 13
+•tm5= tm6 -tg= 13-3 = 1 0
+•tm4= tm6 -te= 13-4 = 9
+•tm3= tm5 -tf= 10-7 = 3
+•tm2= min (tm6 -td; tm4 -th) = min ( 1 3-8; 9-0) = 5
+•tm1= min (tm3 -tc; tm4 -th; tm2 -ta) 
+= min ( 6 -6; 8 -5; 8 -3) = 0
+•Vậy các công việc găng là {c ; f ; g} và độ dài đường găng là 
+13.
+109Bài tập 1:
+1.Vẽ sơ đồ PERT dựa trên bảng hoạt động sau:
+5. KỸ THUẬT LẬP LỊCH
+110Bài tập 1: 
+1. Cho bảng phân bố công việc dự án như sau: Lập sơ đồ PERT và 
+tìm đường găng
+5. KỸ THUẬT LẬP LỊCH
+111Bài tập 1:
+1. Cho bảng phân bố công việc dự án như sau:
+1. Lập sơ đồ PERT và tìm đường găng
+5. KỸ THUẬT LẬP LỊCH
+1125. KỸ THUẬT LẬP LỊCH
+•Kỹthuật Lead/lag (Applying Leads andLags) :
+–Thông thường cáchoạt động củadựáncóquan hệFS,công
+việc Acầnhoàn thành trướckhicông việc Bbắtđầu.
+–Trong thựctếcóthểcông việc Bbắtđầu sauhoặc trướckhi
+công việc Ahoàn thành vàingày …
+1135. KỸ THUẬT LẬP LỊCH
+•Kỹthuật Lead/lag (Applying Leads andLags) :
+–Lag Time :làkhoảng thờigian trìhoãn giữa cáccông việc phụ
+thuộc ,Khicông việc Ahoàn thành ,cầnmộtkhoảng thời gian
+trìhoãn (delay/waiting) đểthực hiện công việc B.
+1145. KỸ THUẬT LẬP LỊCH
+Kỹthuật dùng Gantt Chart
+•DoHenry Laurence Gantt (kỹsưngười Mỹ) đềxuất 1910
+•SơđồGantt sớm được sửdụng chonhững công trình lớn
+•Hiện nayvẫnđược sửdụng trong quản lýdựán
+•Ưuđiểm cuảsơđồGantt :
+–Lậpsơđồđơngiản
+–Dễnhận biếtcáccông việc vàthờigian thực hiện chúng
+•Nhược điểm cuảsơđồGantt :
+–Không thểhiện rõmốiquan hệgiữa cáccông việc
+–Không thấy rõcông việc nàolàchủyếu, cótínhquyết định đối
+vớitổng tiếnđộcủadựánđểtậptrung chỉđạo
+1155. KỸ THUẬT LẬP LỊCH
+Kỹthuật dùng Gantt Chart
+–Cáccông việc được biểu diễn theo trình tựthời gian vớitrục
+thờigian được trình bàytheo trụchoành .
+–Cáccông việc cóthểđược biểu diễn bằng thanh ngang .Độdài
+củađoạn thẳng làthờigian củacông việc
+–Vịtrígiữa cácđoạn thẳng biểu diễn mối quan hệtrước sau
+giữa cáccông việc.
+–Cáccông việc trênđường găng thường đuợc tômàu khác .Nếu
+dựánđang được triển khai thìmộtđoạn thẳng đậm nétsẽchỉ
+rõtiếntriển hiện tạicủacông việc.
+1165. KỸ THUẬT LẬP LỊCH
+•Kỹthuật dùng Gantt Chart
+1175. KỸ THUẬT LẬP LỊCH
+Sơđồngang haySơđồGantt
+•Vídụ:Kế hoạch chodựánxâydựng phần mềm ABC
+1185. KỸ THUẬT LẬP LỊCH
+Sơđồngang haySơđồGantt
+•Vídụ:Kế hoạch chodựánxâydựng phần mềm ABC
+1195. KỸ THUẬT LẬP LỊCH
+Sơđồngang haySơđồGantt
+•Vídụ:Kế hoạch chodựánxâydựng phần mềm ABC
+1205. KỸ THUẬT LẬP LỊCH
+Sơđồngang haySơđồGantt
+•SơđồGantt tốtchoviệc lậpbáocáo, xem thông tinvới
+quản lýcấpcaovàkhách hàng
+•Hiện được sửdụng rộng rãi.Cóthểbiểu diễn trên MS
+Project .
+1215. KỸ THUẬT LẬP LỊCH
+•Kỹthuật dùng Gantt Chart
+1225. KỸ THUẬT LẬP LỊCH
+•Kỹthuật dùng Gantt Chart
+1235. KỸ THUẬT LẬP LỊCH
+•Kỹthuật dùng Gantt Chart
+1245. KỸ THUẬT LẬP LỊCH
+1.Bàitậpdùng Microsoft Project vẽsơđồGantt trên bảng
+hoạt động sau:
+1256. ĐIỀU KHIỂN LỊCH BIỂU
+–Kiểm tralịchbiểu sovớithực tế.
+–Sửdụng kếhoạch dựphòng .
+–Không lậpkếhoạch chomọingười làmviệc 100%khả
+năng vàomọithờiđiểm .
+–Tổchức cácbuổi họptiếnđộvớicácbênliênquan .
+–Trung thực vàrõràng khibànvềcácvấnđềliênquan
+đếnlịchbiểu.
+126QUẢN LÝ THỜI GIAN DỰ ÁN 
+(PROJECT TIME MANAGEMENT) 
+Những trởngại khiướclượng :
+•Thiếu thông tin,thiếu trithức
+•Không lường được sựphức tạpvềkỹthuật
+•Không lường được sựbấthòacủacácthành viên trong dựán
+•Khiướclượng thời gian được đưara,nócóthểgặpnhững gópý
+điều chỉnh
+•Cấptrênthường muốn rútngắn thờigian ướclượng chocông việc
+•Thiếu thời gian đểcânnhắc, traođổivớicácthành viên vàkhách
+hàng
+•Thiếu kinh phí
+•Khách hàng ,thành viên dựánkhông cung cấpđủ(hoặc chegiấu)
+thông tin
+127QUẢN LÝ THỜI GIAN DỰ ÁN 
+(PROJECT TIME MANAGEMENT) 
+Những trởngại khiướclượng :
+•Thiếu thời gian đểcânnhắc, trao đổivớicácthành viên và
+khách hàng
+•Thiếu kinh phí
+•Khách hàng ,thành viên dựánkhông cung cấpđủ(hoặc che
+giấu) thông tin
+•Phát biểu không rõ ràng về mục đích, mục tiêu, kếtquả
+•Xây dựng WBS không tốt
+•Ước lượng hoàn toàn theo cảm tính
+128Những trở ngại gặp phải khi ước lượng
+Không lường trước được :
+•Thời gian chuyên gia đảm nhiệm công việc chuyên môn
+•Những phức tạpkỹthuật nảysinh
+•Sựhòathuận hay bấthòacủanhững thành viên thực hiện dự
+án
+Có thể xảy ra sau khi ước lượng thời gian :
+•Những ý kiến khác gópý thungắn lạihoặc dãndàira
+•Sứcépcủacấptrên: thường muốn thu ngắn thời gian thực hiện
+•Thiếu gặp gỡ, trao đổi với các thành viên dự án, với khách 
+hàng để cân nhắc, tính toánƯỚC LƯỢNG THỜI GIAN DỰ ÁN 
+129QUẢN LÝ THỜI GIAN DỰ ÁN 
+(PROJECT TIME MANAGEMENT) 
+Những lưu ý khi ước lượng
+•Trước khi ước lượng thời gian cho công việc, WBS nên được 
+viết đủ rõ ràng, chi tiết
+•Với các công việc gần giống nhau, ước lượng thời gian cũng 
+gần giống nhau
+•Phân chia chi tiết công việc sẽ cho ước lượng chính xác hơn
+•Mỗi ước lượng chi tiết không nên quá 8 giờ
+•Không bao giờ có ước lượng chính xác hoàn toàn và việc ước 
+lượng mang tính chủ quan
+•Nên viết tài liệu khi ước lượng
+130Kiểm chứng thời gian ước lượng quá cao
+•Kiểm chứng lại để khẳng định tính hợp lý của ước lượng :
+•Có ước lượng nào bị thổi phồng ?
+•So sánh với những dự án tương tự đã làm
+•Tìm cách rútngắn , tiếtkiệm thờigian
+•Cóthểthuhẹpphạm vi công việc ?
+•Dùng lại những kết quả đã có trước đây ?
+•Giảm chất lượng sản phẩm ?
+•Tuyển chọn những nhân viên kỹ thuật có trình độ cao hơn ?
+(lường trước chi phí phải cao hơn)
+•Đềnghị cung cấpthiết bịtốt, mới(tuy nhiên, nhân tố quyết 
+định vẫn là con người)ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 
+131Kiểm chứng thời gian ước lượng quá thấp
+•Kiểm chứng lại để khẳng định tính hợp lý của ước lượng (có 
+ước lượng nào bị ép xuống ?)
+•Tăng thời gian lên một chút (nhân thêm một tỷ lệ %), bù đắp 
+cho tính “lạc quan” trong khi ước lượng
+•Thách thức những người tham gia công việc: thông qua các
+cam kếtƯỚC LƯỢNG THỜI GIAN DỰ ÁN 
+132Bàitập
+1.Vẽ sơ đồ AOA ( ADM )dựa trên bảng hoạt động sau :BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 
+133
+Bàitập
+1.Vẽ sơ đồ AOA ( ADM )dựa trên bảng hoạt động sau :BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 
+134
+Bàitập
+1.Vẽ sơ đồ AOA ( ADM )dựa trên bảng hoạt động sau :BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 
+135
+136BàitậpSơ đồ PDM BàitậpSơ đồ 
+PDM
+4.Vẽsơđồ
+PDM, tôđậm
+đường găng,
+tính chiều dài
+của dựánvà
+tính ES, EF,
+LS, LF, TF,
+FF cho các
+công việc
+trong bảng sau
+BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN BàitậpSơ đồ PDM
+1.Vẽ sơ đồ PDM, tô đậm đường găng vàtínhES, EF, LS, LF, 
+TF, FF chocáccông việc trong bảng tổchức đi picnic sau:
+137BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN BàitậpSơ đồ PDM
+2. Vẽ sơ đồ PDM , tôđậm đường găng, tínhchiều dàicủadựánvà
+tínhES, EF, LS, LF, TF, FF chocáccông việc trong bảng sau
+138BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN BàitậpSơ đồ PDM
+3. Vẽ sơ đồ PDM , tô
+đậm đường găng, tính
+chiều dàicủadựánvà
+tínhES, EF, LS, LF, 
+TF, FF chocáccông
+việc trong bảng sau
+139BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN •Cho bảng phân bố công việc dự án như sau
+•Lập sơ đồ PERT và tìm đường găng
+•Tìm thời gian tối thiểu để hoàn thành dự án và chi phí 
+tương ứng
+140BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN •Cho bảng công việc trong mộtdựánnhưsau
+1.VẽsơđồPERT vàbiểu đồGANTT?
+2.Tìm đường găng?
+3.Đường găng cóđiquasựkiện 4(kết thúc cvàe)không? Cho
+biếtthờigian sớm nhất sựkiện nàycóthểxuất hiện?
+4.Dựánsẽthếnàonếucông việc ekéodàithêm 1tuần? 2tuần? 3
+tuần?
+141BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 2: Cho bảng phân bố công việc dự án như sau:
+1. Lập sơ đồ PERT và tìm đường găng
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+142BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 2: Cho bảng phân bố công việc dự án như sau:
+1. Lập sơ đồ PERT và tìm đường găng
+143BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 2: Cho bảng phân bố công việc dự án như sau:
+1. Lập sơ đồ PERT và tìm đường găng
+144BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 2: Cho bảng phân bố công việc dự án như sau:
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+145BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 2: Cho bảng phân bố công việc dự án như sau:
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+146BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập: Cho bảng phân bố công việc dự án như sau:
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+147BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập: Cho bảng phân bố công việc dự án như sau:
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+148BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập: Cho bảng phân bố công việc dự án như sau:
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+149BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập: Cho bảng phân bố công việc dự án như sau:
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+150BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập: Cho bảng phân bố công việc dự án như sau:
+2. Tìm thời gian tối thiểu để hoàn thành dự án và chi phí tương ứng
+151BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+152BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+1.Vẽ sơ đồ PERT
+2.Tìm thời gian dự kiến và tối thiểu để hoàn thành dự án
+3.Tìm chi phí rút ứng với thời gian dự kiến và tối thiểu nêu 
+trên
+4.Tìm chi phí dự án thấp nhất có thể nếu làm trong 22 ngày
+153BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+154BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+155BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bàitập3: Cho bảng phân bố công việc dự án như sau:
+156BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+157BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+158BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+159BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bài tập 3: Cho bảng phân bố công việc dự án như sau:
+160BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bàitập3: Cho bảng phân bố công việc dự án như sau:
+161BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 1.Bàitậpdùng Microsoft Project vẽsơđồGantt trên bảng
+hoạt động sau:
+162BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 2.Bàitậpdùng Microsoft Project vẽsơđồGantt trên bảng
+hoạt động sau:
+163BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 2.Bàitậpdùng Microsoft Project vẽsơđồGantt trên bảng
+hoạt động sau:
+164BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN Bàitập
+1.Ước lượng thời gian thực hiện dựánphần mềm quản lý
+khách sạnnhằm lưutrữchitiếtthông tinmỗi lượt khách ở
+vàxuất thông tinnàycùng vớihóađơnkèm theo, dựatrên
+WBS đãlập
+2.Ước lượng thời gian thực hiện dựánmởtiệm internet hoạt
+động 24/24,cókiểm soát nộidung truy cậpcủakhách hàng
+vàxuất phiếu tínhtiềntựđộng, dựatrênWBS đãlập
+3.Làm cácbàitậptrong fileCanXem_itm_exercice .pdf
+165BÀI TẬP ƯỚC LƯỢNG THỜI GIAN DỰ ÁN 

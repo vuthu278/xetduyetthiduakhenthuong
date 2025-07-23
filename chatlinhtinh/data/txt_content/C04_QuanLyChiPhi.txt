@@ -1,0 +1,408 @@
+Jens Martensson4.1. Khái niệm vềquản lýchi phí
+4.2. Lậpkếhoạch vềnguồn tàinguyên dựán
+4.3. Ước lượng chi phí(Cost Estimating)
+4.4. Dựtoán ngân sách chocácchi phí(Cost Budgeting). 
+4.5. Kiểm soát vàđiều chỉnh chi phí(Cost Control)
+2NỘI DUNGJens Martensson❑Chiphídựánlàtổng sốtiềncầnthiết đểkếtthúc mộtgiao dịch
+kinh doanh hoặc mộtdựáncông việc.
+❑Có2loạichiphídựánđólàchiphítrựctiếpvàchiphígián tiếp.
+31. Tổng quan về quản lý chi ph íJens MartenssonChi phí trực tiếp bao gồm chi phí chi trả:
+❑Các cá nhân làm việc trong dự án :tức là nhân viên công ty hoặc các agency
+(công ty), freelancer (người làmnghề tựdo).
+❑Thiết bị :công cụ và máy móc hỗ trợ nhân viên sử dụng để hoàn thành dự án
+❑Nhiệm vụ quản lý dự án :nghĩa là tất cả các nhiệm vụ nhằm tạo điều kiện thuận 
+lợi cho việc hoàn thành dự án trước một thời gian nhất định và theo các yêu cầu cụ 
+thể
+❑Nhiệm vụ kỹ thuật (nếu cần) :tức là tất cả công việc nghiên cứu, thiết kế và lắp đặt 
+thiết bị được thực hiện để hoàn thành dự án
+❑Vận chuyển (nếu có) :tức là giá cước tùy chỉnh, đưa thành phẩm đến nhà bán lẻ,…
+41. Tổng quan về quản lý chi ph íJens MartenssonChi phí gián tiếp bao gồm:
+❑Chi phí hoạt động chung, tức là tiền thuê văn phòng, điện nước, bảo 
+hiểm, thiết bị văn phòng, tài nguyên,…
+❑Mức lương tăng hàng năm của nhân viên, thưởng lễ, tết,…
+❑Các công cụ công nghệ hỗ trợ làm việc hiệu quả
+❑Mục đích của quản lý chi phí dự án là xử lý các chi phí trực tiếp và 
+gián tiếp, kiểm soát chúng trong phạm vi ngân sách của dự án.
+51. Tổng quan về quản lý chi ph íJens Martensson❑Quản lýchiphídựánlàquátrìnhước tính, phânbổvàkiểm soát chiphí
+trong một dựán.Giúp dựđoán cácchiphísắptớiđểgiảm nguy cơvượt
+ngân sách .
+❑Chiphídựkiến được tínhtrong giaiđoạn lậpkếhoạch củadựánvàphải
+được phêduyệt trước khibắtđầudựán.
+❑Khikếhoạch dựánđược thực hiện,cácchiphíđược ghilạivàtheo dõiđể
+đảm bảochiphínằm trong kếhoạch .
+❑Khidựánhoàn thành ,chiphídựđoánđược sosánhvớichiphíthựctế,
+cung cấpchuẩn chokếhoạch quản lýchiphívàngân sách dựántrong tương
+lai.
+61. Tổng quan về quản lý chi ph íJens MartenssonLợi ích của việc quản lý chi phí dự án phù hợp bắt nguồn từ các 
+mục tiêu chính của quản lý chi phí, bao gồm:
+❑Phân phối dự án theo các tiêu chí giá trị được thiết lập khi bắt đầu 
+dự án
+❑Giám sát và ghi lại tất cả các giao dịch, thanh toán và các thay đổi 
+liên quan đến dự án
+❑Nỗ lực giảm chi phí kinh doanh tổng thể
+❑Để quản lý chi phí dự án hiệu quả, nhà quản lý cần có phương 
+pháp quản lý, lập kế hoạch quản lý chi phí.
+71. Tổng quan về quản lý chi ph íJens Martensson❑Lập kếhoạch cho nguồn tàinguyên (Resource Planning) :xác
+định nguồn tàinguyên cầnthiết đểthực hiện dựán.
+❑Ước lượng chiphí(Cost Estimating) :ước tínhchiphívềcác
+nguồn tàinguyên đểhoàn tấtdựán.
+❑Dựtoán chiphí(Determine Budget) :phân bổtoàn bộchiphí
+ước tínhvàotừng hạng mục công việcthực hiện
+❑Kiểm soát -Điều chỉnh chiphí(Cost control) :điều chỉnh thay
+đổiChiphídựán.
+82. Quy trình quản lýchi phídựánJens Martensson❑Hoạch định nguồn lực:xácđịnh những tàinguyên vậtlý
+(conngười, thiết bị,vậtliệu) vàsốlượng được sửdụng để
+thực hiện cáchoạt động củadựán.
+❑Các tàiliệuđầuvào:
+❖Bảng cấutrúcphân rãcông việc(WBS)
+❖Thông tinlịchsửcủanhững dựántrướctươngtự
+❖Phát biểu phạm vidựán
+92.1 Lập kế hoạch cho nguồn tà inguyênJens Martensson❑Lập kếhoạch cho nguồn tàinguyên củadựánphụ thuộc vào
+bảnchấtcủamỗidựán.
+❑Mộtsốcâuhỏicầngiảiquyết khilậpkếhoạch nguồn tàinguyên
+chodựán:
+❖Cáckhókhăn nàosẽgặpkhithực hiện cáccông việccụthểtrong dựán? 
+❖Cóphạm vi nhất định nàoảnhhưởng đếnnguồn tàinguyên ? 
+❖Tổchức đãthực hiện những công việcnàotương tựnhưdựán? 
+❖Tổchức đócóđủngười , trang thiết bịvàvậttưđểthực hiện dựán? 
+102.1 Lập kế hoạch cho nguồn tà inguyênJens Martensson❑Ước lượng chiphí:tínhtoán mộtxấp xỉchiphícủacácnguồn
+lựccầnthiết đểhoàn thành cáchoạt động củadựán.
+❑Các loạiước tính chi phí: 
+112.2 Ước lượng chi phí (Cost Estimating)
+Jens Martensson❑Các phương pháp ước tính chi phí: 
+❖Tương tựhayTrên -xuống (top-down)
+❖Dưới lên(Bottom -up)
+❖Dùng tham số
+122.2 Ước lượng chi phí (Cost Estimating)Jens Martensson❑Phương pháp Tương tựhayTrên -xuống (top-down) sửdụng
+chiphíthực tếcủacácdựántương tựtrước đó,làmnềntảng ước
+tínhchodựánmới.
+❖Kỹthuật Top down sẽướctính cho toàn bộdựán,sauđóchia thành tỉ
+lệphần trămtrong tổng sốđốivớimỗigiaiđoạnhaycông việccủadựán.
+❖Doướclượngtừtrênxuống ,cầnthông tinlịchsử,nênkỹthuật nàykhông
+thểápdụng chodựánchưatừng thực hiện trướcđây.
+132.2 Ước lượng chi phí (Cost Estimating)Jens Martensson❑Phương pháp từdưới lên(Bottom -up):ước tính riêng từng
+cộng việcvàsauđótínhtổng.
+❖Mấtnhiềuthờigian nhưngrấtchính xác.
+❖Yêu cầungườithực hiện phải biếtrấtrõcông việc tiếnhành nhưthếnào,
+trung thực vàchính xác
+❑Dùng thông số:ápdụng phương pháp toán họcđểước tínhchi
+phí.Môhình COCOMO (Constructive Cost Model) làMôhình
+thông dụng .
+142.2 Ước lượng chi phí (Cost Estimating)Jens Martensson❑Phương pháp dùng tham số:sửdụng cácđặcđiểm riêng biệt
+trong dựán,ápdụng phương thức toán họcđểước tínhchiphí.
+❖Dùng chocácdựánlớn,cósẵndữliệulịchsử.
+❖Thông tinlịchsửbằng đơnvịcông việcdùng làmcơsởtínhtoán
+❖Môhình toán họcđượcxâydựng gọilàcông thức theo tham sốtrình bày
+mối quan hệgiữa cáccông việc.Môhình COCOMO (Constructive Cost
+Model) làmôhình thông dụng .
+152.2 Ước lượng chi phí (Cost Estimating)Jens Martensson❑Phương pháp ướclượng 3điểm (Three -Point) :Dựa trên kỹ
+thuật đánh giáPERT sửdụng baước tính đểxácđịnh chiphí
+gầnđúng chocáchoạt động
+❖Kỳvọng (CM):Chiphíhoạt động dựa trênđánh giánỗlựcthực tếcủacác
+công việccầnthiết.
+❖Lạcquan (CO)Chiphíhoạt động dựa trênphân tíchcáckịch bảntốtnhất
+chohoạt động .
+❖Biquan (CP).Chiphíhoạt động dựa trên phân tíchcủacáckịch bảnvới
+cáctrường hợpxấunhất chocáchoạt động
+162.2 Ước lượng chi phí (Cost Estimating)Jens Martensson❑Phương pháp ướclượng 3điểm (Three -Point) :
+❑Trong đó:
+❖o = optimistic estimate ( ướctínhlạcquan )
+❖p = pessimistic estimate ( ướctínhbi quan )
+❖m = most likely estimate ( ướctínhcókhảnăng nhất)
+❑Công thức PERT ước tính chi phí hoạt độn g(CE)
+172.2 Ước lượng chi phí (Cost Estimating)
+Jens Martensson❑Vídụ:Đểthực hiện công việc A,ngườiquản lýước tính
+khảnăng lạcquan nhất (O)là400$,trong trường hợp kỳ
+vọng (M)thìcần 450$vàtrườnghợpxấunhất (P)thìcần
+550$.
+❑Ước tính theo PERT
+CE=(400+ 4 * 45 0+ 550) / 6 = 458.33 $.
+182.2 Ước lượng chi phí (Cost Estimating)Jens Martensson❑Ngân sách dựánlàtổng sốtiềnđược lậpkếhoạch vàphân bổđể
+thực hiện dựántrong mộtkhoảng thờigian cụthể(thời hạn).
+❑Ngân sách dựándựa trênước tínhchiphíbanđầucủadựánvà
+thường phụthuộc vàohiệu quảcủaviệc kiểm soát chiphídựán–
+cáckỹthuật kiểm soát chiphídựánnhằm đảm bảobạntrang trải
+tấtcảcácchiphícủadựán,baogồm thiết bị,giờlàmviệc, vậtliệu
+vàcácchiphítrựctiếptrong khivẫnnằm trong ngân sách .
+192.3 Xác định ngân sách (Determine Budget)Jens Martensson❑Xác định ngân sách làquá trình tổng hợp cácdựtoán chiphí
+củacáchoạt động riêng biệthoặc cácgóicông việc đểthiết lập
+mộtđườngchiphícơbản(Cost Baseline) đượcphêchuẩn .
+❖Cost Performance Baseline :được sửdụng đểgiám sátvàkiểm soát hiệu
+suất chiphítổng thểdựán.
+❖Cost baseline hay Budget atCompletion –BAC :làchiphídonhóm dự
+ánhoạch định ra.
+❖Project budget làtổng chiphíthực tếkhithực hiện dựán
+202.3 Xác định ngân sách (Determine Budget)Jens MartenssonCó 4 phương pháp quản lý ngân sách dự án chính:
+❑Tăng dần : Bạn theo dõi thời gian cho các nhiệm vụ của mình trong một dự án và hiểu được thời 
+gian thực tế mà bạn sẽ cần để hoàn thành các nhiệm vụ đã nói trong tương lai.
+❑Dựa trên hoạt động : Bạn tính toán doanh thu lý tưởng của mình, xem xét có bao nhiêu dự án và 
+mức giá bạn cần thực hiện trong năm để đạt được doanh thu nói trên và xác định ngân sách của 
+từng dự án riêng lẻ.
+❑Đề xuất giá trị :bạn thêm các mục vào ngân sách của mình dựa trên giá trị mà chúng mang lại 
+cho dự án của bạn.
+❑Dựa trên số không : kỹ thuật quản lý ngân sách này tương tự như đề xuất giá trị. Sự khác biệt là 
+hạng mục đó phải hợp lý và được chứng minh hữu ích cho mỗi giai đoạn kinh doanh mới, chứ 
+không chỉ cho một dự án.
+212.3 Xác định ngân sách (Determine Budget)Jens Martensson❑Xácđịnh ngân sách
+❖Vídụ:dựtínhdựánAlàmhết100triệu =>BAC =100tr.Nhưng khithực
+hiện dựánthìđãtốn120trthìProject budget =120tr.
+222.3 Xác định ngân sách (Determine Budget)
+Jens MartenssonĐểđảm bảobạndựántriển khai theo đúng ngân sách cho
+phép , bạnnên:
+❑Quản lýhiệu quảthờigian làmviệccủanhân viên: phân công
+công việcchính xácđảm bảonhân viên hoàn thành nhiệm vụmột
+cách tốtnhất trong quỹthờigian củahọ.
+❑Sửdụng phần mềm công nghệ –ngoài công cụquản lýdựán, 
+bạnnênứngdụng cácphần mềm công nghệ giúp tựđộng hóa
+công việctheo cách tiếtkiệm chi phí.
+232.3 Xác định ngân sách (Determine Budget)Jens Martensson❑Công việc thuê ngoài :thuê một chuyên gia có uy tín từ bên ngoài 
+công ty để xử lý một phần công việc của bạn (công việc liên quan 
+đến kinh doanh hoặc dự án cụ thể) sẽ giúp bạn cắt giảm chi phí.
+❑Cắt giảm chi phí chung của bạn :bảo hiểm là một khoản chi phí 
+không thể thương lượng, nhưng có một số chi phí bạn có thể làm 
+việc mà không thực sự cần đến. 
+❖Ví dụ một văn phòng phong cách ở trung tâm thành phố nhưng ít hơn các 
+tiện nghi hữu ích. Bạn nên tập trung cắt giảm những thứ không cần thiết để 
+tận dụng tối đa ngân sách của mình.
+242.3 Xác định ngân sách (Determine Budget)Jens Martensson❑Kiểm soát chi phí dự án bao gồm cáchoạt động :
+❖Theo dõiảnhhưởngcủa cácyếutốtạorasựthayđổicủađườngcost
+Baseline .Đảm bảorằng tấtcảcácyêucầuthay đổiđược thực hiện kịpthời.
+❖Quản lý các thay đổi thực tế khi chúng xảy ra .
+❖Đảm bảo chi phí không vượt quá ngân sách được phêchuẩn
+❖Giám sát hiệu quả chi phí , giám sát hiệu suất làm việc .
+❖Ngăn chặn thay đổi không được chấp thuận .
+❖Thông báo cho các bên liên quan , tất cả các thay đổi ảnhhưởngđến chi phí
+đã được phê duyệt .
+252.4 Kiểm soát chi phí(Control Cost)Jens Martensson❑Quản lýgiátrịđạtđược(Earned value management -EVM) :đo
+mức độdựánđang thực hiện sovớikếhoạch .
+❑EVM làmộtkỹthuật đokhảnăng thực hiện dựánthông quatích
+hợpcácdữliệuvềphạm vi,thời gian vàchiphí.
+262.5 Ph ương pháp kiểm soát chi phí(Control Cost)Jens MartenssonThuật ngữ trong EMV :
+❑Giátrịtrùtính (PV=Planned Value) ,còngọilàngân sách chiphícông việcđãlên
+lịch(BCWS=Bugedted Cost ofWork Scheduled), cũng làngân sách dựtrùchotổng
+chotổng chiphísẽchitiêuchomộtcông việctrong suốt mộtgiaiđoạn định trước .
+❑Chiphíthực sự(AC=Actual Cost) ,còngọilàchiphíthực sựcủacông việcđược
+thực hiện (ACWP= Actual Cost ofWork Performed), làtổng cộng cácchiphítrực
+tiếphaygián tiếptrong việchoàn tấtcông việctrong mộtgiaiđoạn định trước .
+❑Giátrịthuđược (EV= Earned Value), còngọilàchiphíngân sách choviệc tiến
+hành công việc (BCWP= Budgeted Cost ofWork ),làdựtrùgiátrịcủacông việc
+thậtsựhoàn thành
+272.5 Ph ương pháp kiểm soát chi phí(Control Cost)Jens Martensson❑Nhận xét:
+❖CVchobiếtsựsaibiệtgiữa chiphíthậtsựvàgiátrịthuđược .
+❖SVchobiếtsựsaibiệtgiữa hòan thành theo lịchvàgiátrịthuđược .
+❖CPIlàtỷsốgiữa giátrịthuđược vàchiphíthậtsự.Nếu bằng 1thìphùhợp, 1thì
+hòan thành trước lịchvàngượclại.
+❑Dựa trên EVM ,xácđịnh đường chiphícơsở(Cost Base line), xácđịnh cách tốt
+nhất màdựánđạtđược mục tiêu.
+Project budget = BAC + dựphòng quản lý
+282.5 Ph ương pháp kiểm soát chi phí(Control Cost)Jens Martensson❑Cách tính ngân sách
+❖Xác định ngân sách tạithời điểm hoàn thành (Budget atcompletion -BAC), nhân với
+%kếhoạch hoàn thành
+❖Giátrịtheo kếhoạch (Planned Value -PV):ngân sáchdựtrùchotổng chiphísẽchitiêu
+chomộtcôngviệctrong suốtthờigianđượcxácđịnhtrước
+❖Kế hoạch hoàn thành
+292.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+PV=BAC*% Kếhoạch hoàn thành
+Đến thời điểm hiện tại, nhóm dựánđã thực hiện 300 giờ làm việc trên
+tổng sốgiờcủadựánlà1.000 giờ , thì% kế hoạch hoàn thành củatoán
+bộdựánlà30%Jens Martensson❑Vídụ:Nếu giátrịtạithờiđiểm hoàn thành (BAC)là$200.000,và%kếhoạch
+củatoànbộlà30%,giátrịtheo kếhoạch (Planed value -PV)là:
+PV= $ 200.000 x 30% = $ 60.000.
+302.5 Ph ương pháp kiểm soát chi phí(Control Cost)Jens Martensson❑Giátrịđạtđược (Earned Value -EV):chobiếtkhảnăng đạtđượctạithời
+điểm hiện tạicủanhóm dựán.Giátrịđạtđược củadựáncóthểgửicho
+khách hàng .
+❖% thực tếhoàn thành :
+VDnhóm dựánđãthực hiện 300giờlàmviệc chođếnthờiđiểm hiện tạitrêntổng số1.000.
+Nhưng thực tếchỉhoàn thành 35%công việc=>%thực tếhoàn thành là35%.
+312.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+EV= BAC * % thực tếhoàn thànhJens Martensson❑Chỉsốthực hiện lịch biểu (Schedule Performance Index -SPI)
+Cho biếttiếnđộcủadựánsớm haychậmhơnkếhoạch .
+❖Nếu SPI < 1 => EV<PV:  chậm hơn kếhoạch
+❖Nếu SPI > 1 => EV>PV:  sớm hơn kếhoạch
+322.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+SPI=EV / PVJens Martensson2.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+❑Chênh lệch chiphídothay đổitiến độ(SV-Schedule variance)
+Sựchênh lệch giữa kếhoạch vàgiátrịthực tếđạtđược .
+❑Chiphíthực sự(Actual Cost -AC):chiphíđểthực hiện mộtcông
+việc (ACWP -Actual Cost ofWork Performed), làtổng cộng các
+chiphítrực tiếphaygián tiếptrong việc hoàn tấtcông việc trong
+mộtgiaiđoạn định trước .SV = EV –PVJens Martensson2.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+❑Chỉsốchiphíthực hiện CPI(Cost Performance Index -CPI) ):
+làtỷsốgiữa giátrịthuđược vàchiphíthậttế.
+❖Nếu CPI>= 1 chi phítrong ngân sách .
+❖Nếu CPI<1 chi phívượt ngân sách. CPI = EV / ACJens Martensson2.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+❑Chên lệch chi phí(Cost Variance -CV): chi phíthực tếlệch so vớikếhoạch
+❑Chỉsốhiệu suất hoàn thành (ToComplete Performance Index -TCPI) cung
+cấpchỉsốhiệu suất chiphítrong tương laimànhóm dựánphảituân theo cho
+công việccònlạinếumuốn hoàn thành nótrong ngân sách .CV = EV –AC
+Jens Martensson2.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+❑Dựbáo:
+❖Ước tính lúchoàn thành (Estimate atCompletion EAC) :giúp tínhtoán
+tổng chiphíkhidựánhoàn thành
+❖Ước tính để hoàn thành ( estimate to complete -ETC): cho biết sẽ chi tiêu 
+nhiều hơn bao nhiêu cho dự án.EAC = BAC / CPI
+ETC = EAC –ACJens Martensson2.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+❖Phát sinh lúchoàn thành (Variance atComplete -VAC) :dự
+đoán phát sinh khithực hiện dựán
+VAC = BAC -EACJens Martensson❑Tóm tắtCông thức tính trong EMV
+382.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+Jens Martensson❑Vídụ
+392.5 Ph ương pháp kiểm soát chi phí(Control Cost)
+Jens Martensson❑Phân tích tàichính dựánlàmộtyếutốrấtquan trọng trong quá
+trình banđầulựachọn dựán.Baphương pháp xácđịnh giátrịtài
+chính củacácdựán
+❖Tính GiátrịThực (Net Present Value –NPV)
+❖Tính GiátrịThuđược trênVốnđầutư(Return OnInvestment –ROI)
+❖Tính Giátrịkiếm được (Payback Analysis –PA)
+❖Lựachọn dựándựatrênmôhình đánh giátheo trọng số
+403. Phân tíchtàichính chodựánJens Martensson❑Tính GiátrịThực (Net Present Value –NPV) :Giátrịhiện tại
+thuần làhiệu sốcủagiátrịhiện tạidòng doanh thu(cash inflow)
+trừđigiátrịhiện tạidòng chiphí(cash outflow) tínhtheo lãisuất
+chiết khấu lựachọn .
+❑NPV đựơc sửdụng trong hoạch định ngân sách đầu tư(capital
+budgeting), phân tíchkhảnăng sinh lợicủamộtdựánđầutư.
+413. Phân tíchtàichính chodựánJens Martensson❑Tính GiátrịThực (Net Present Value –NPV) :
+❑Công thức tính NPV
+❑Trong đó
+–t -thờigian tínhdòng tiền
+–n -tổng thờigian thực hiện dựán
+–r -tỉlệchiết khấu
+–Ct -dòng tiềnthuần tạithờigian t
+–C0 -chi phíban đầuđểthực hiện dựán
+423. Phân tíchtàichính chodựán
+Jens Martensson❑Vídụ:
+433. Phân tíchtàichính chodựán
+Jens Martensson❑Vídụ:
+❖Dựán1vàdựán2đềuthực hiện trong 5
+năm vớivốnbỏra(Revenue) vàchiphí
+(costs) trong 5năm
+❖Dùng hàm npv()của Excel cóthểtính
+giátrịNPV
+❖Haidựáncósốtiềnthuđược cuối cùng
+đềulà$5000
+❖Sosánh NPV:NPV củadựán2tốthơn
+củadựán1nêndựán2được cácnhà
+đầutưchọn .
+443. Phân tíchtàichính chodựán
+Jens Martensson❑Tính Giátrịthuđược trên Vốn đầutư(Return OnInvestment –
+ROI:tỉlệthunhập trên sốtiềnđầutưchođếnthờiđiểm hiện tại:
+nếuthời điểm hiện tạilàlúckếtthúc dựánthìROI sẽđược tính
+nhưsau:
+ROI = ( tổng thunhập –tổng chi phí)/ tổng chi phí
+❖CácdựáncógiátrịROI càng caocàng hiệu quảvềmặtkinh tế. 
+❖Việc chọn lựadựáncăncứtrêngiátrịROI thông qua việcấnđịnh mộttỉlệ
+ROI cầnthiết màdựáncầnđạt, cácdựáncóROI lớnhơnngưỡng sẽ
+đượcchọn .
+453. Phân tíchtàichính chodựánJens Martensson❑Tính Giátrịkiếm được (Payback Analysis –PA)Phân tíchhoàn
+vốn làmột phương pháp xácđịnh thời gian hoàn vốn cho một
+khoản đầutư.Đây làkhoảng thờigian lợinhuận bắtđầulớnhơn
+chiphí.
+463. Phân tíchtàichính chodựán
+Jens Martensson❑Lựa chọn dựándựa trên môhình đánh giátheo trọng số
+chọn dựándựatrênnhiều tiêuchí,thực hiện theo cácbước :
+❖Xácđịnh cáctiêuchíquan trọng vớiquátrình lựachọn dựán. 
+❖Gán trọng số(%) tớimỗitiêuchíđểtổng cáctrọng sốlà100%. 
+❖Gán điểm chomỗitiêuchítrênmộthệthống chođiểm thống nhất
+❖Nhân cácđiểm vớicáctrọng sốđểtínhtổng sốđiểm cótrọng số. 
+❖Dựánnàocótổng điểm càng caothìđược chọn đểthực thi. 
+473. Phân tíchtàichính chodựánJens Martensson❑Phần mềm quản lýchiphídựánsẽquản lý,lưuvết,lưutrữphiếu
+thu–chingay cảnhững khoản chitiêunộibộnhỏnhất, cậpnhật
+tứcthời biến động dòng tiền, hiện trạng kinh phíchotừng dựán
+theo thờigian thực đểđiều chỉnh kếhoạch chitiêuhợp lý,tốiưu
+ngân sách .
+❑Phần mềm quản lýchiphídựángiúp dựándiễn ratheo đúng kế
+hoạch vềcảthờigian,nguồn lựcvàngân sách thìphần mềm còn
+giảm tảigánh nặng ghinhớchonhàquản lý.
+❑Tìmhiểu phần mềm FastWork Project
+484. Sửdụng phần mềm đểquản lýchi phídựánJens MartenssonBàitập
+❑Giảsửmộtdựánthực hiện trong 1 năm: 
+❖PV = 23.000$ EV = 20.000$ AC = 25.000$ BAC = 120.000$ 
+1.Tínhđộlệch chiphí(cost variance), độlệchlịchbiểu (schedule variance),
+chỉsốhiệusuất chiphí(cost performance index -CPI), vàchỉsốhiệusuất
+lịchbiểu (schedule performance index -SPI)củadựánnày.
+2.Dựánđitrước hayđisaulịchbiểu?Dựántrongphạm vingân sách hay
+vượt ngân sách
+3.Dùng CPIđểtính giátrịEAC chodựánnày.Dựánđượcthựchiệntốthơn
+hayxấuhơn sovớikếhoạch?
+4.Dùng SPIđểướclượngdựánsẽkếtthúc saubao lâu.Jens MartenssonBàitập
+❑Giảsửmộtdựánthực hiện trong 1 năm: 
+❖PV = 23.000$ EV = 20.000$ AC = 25.000$ BAC = 120.000$ 
+1a)Tínhđộlệch chiphí(cost variance)
+CV=EV–AC=20000 -25000 =-5000 $
+1b)Độlệchlịchbiểu (schedule variance),
+SV=EV–PV=20000–23000 =-3000
+1c)Chỉsốhiệusuất chiphí(cost performance index -CPI)
+CPI =EV/AC=20000 /25000 =0.8
+1d)chỉsốhiệusuấtlịchbiểu (schedule performance index -SPI)củadựán
+SPI=EV/PV=20000 /23000 =0.869Jens MartenssonBàitập
+❑Giảsửmộtdựánthực hiện trong 1 năm: 
+❖PV = 23.000$ EV = 20.000$ AC = 25.000$ BAC = 120.000$ 
+1a)Tínhđộlệch chiphí(cost variance)
+CV=EV–AC=20000 -25000 =-5000 $
+1b)Độlệchlịchbiểu (schedule variance),
+SV=EV–PV=20000–23000 =-3000
+1.Dựánđisaulịchbiểu
+2.Dựánvượtphạm vingân sáchJens MartenssonBàitập
+❑Giảsửmộtdựánthực hiện trong 1 năm: 
+❖PV = 23.000$ EV = 20.000$ AC = 25.000$ BAC = 120.000$ 
+3)Dùng CPIđểtính giátrịEAC chodựánnày.Dựánđượcthựchiệntốthơn
+hayxấuhơn sovớikếhoạch?
+Chỉsốhiệusuất chiphí(cost performance index -CPI)
+CPI =EV/AC=20000 /25000 =0.8
+EAC =BAC /CPI =120000 /0.8=15000
+Dựánnàythựchiện vượtngân sách doCPI< 1Jens MartenssonBàitập
+❑Giảsửmộtdựánthực hiện trong 1 năm: 
+❖PV = 23.000$ EV = 20.000$ AC = 25.000$ BAC = 120.000$ 
+3)Dùng SPIđểướclượngdựánsẽkếtthúc saubao lâu.
+SPI =EV/PV=20000 /23000 =0.869 <1,dựánkếtthúcchậm hơnkế
+hoạch .
+Chỉsốbiếnđộnglịch:
+SPI=EV/PV*100%=20000 /23000 =0.869
+Ước tínhthờigianđểhoàn thành
+ETC =EAC –AC=15000 -25000 =-10000Jens MartenssonBàitập
+❑Dựáncủabạn cótổng ngân sách là$300.000.Bạnkiểm trahồ
+sơdựánvàthấyrằngbạnđãdành $175.000 chođến nay.Nhóm
+nghiêncứuđãhoàn thành 40%côngviệccủadựán,nhưng khi
+bạnkiểm tralịch trình nónóirằnghọđãhoàn thành 50%công
+việc.
+❑Tính: BAC, AC, EV, PV, SV, CV, CPI, SPI
+❑Project budget = BAC + dựphòng quản lý
+❑BAC = Project budget –dựphòng quản lý
+= 300000 –175000 = 125000Jens MartenssonBàitập
+❑Bạnđangquản lýmộtdựánxâydựnghệthốngquản lýkho và
+vậnchuyển chocông tyA.Tổng ngân sáchcủabạn là$65.000,và
+cótổngcộngkhoảng 750giờlàmviệcdựkiến.Bộphậnkếtoán
+chobạnbiếtrằngbạnđãnhậntổngcộng là$40.000.Theokế
+hoạch, nhómdựáncủabạnđãlàmviệc 450giờ,quảnđốc cho
+phép nhómdựánđược làm thêm, vàhọđãthựcsựlàmviệc 510.
+Tính Tính:BAC, AC,EV,PV,SV,CV,CPI, SPIJens MartenssonBàitập: Đặt chữ cái của cụm từ thích hợp kề vào các mô tả đánh số dưới đây : 
+A.Quản lýgiátrịthuđược
+(Earned Value Management)
+B.EAC
+C.BAC
+D.ROM
+E.Chiphíbịsụt(sunk cost)
+F.Lợinhuận (profits)
+G.CácChiphítínhđược (tangible costs)
+H.Ước tínhxácđịnh (definitive estimate)I.Ước tínhROM
+J.Chi phítheo chu trình sống (life cycle
+costing)
+K.Biến động lịchbiểu (schedule variance)
+L.Ước tính theo tham số(parametric
+estimate)
+M.Ngân sách hóaChiphí(cost budgeting)
+N.SPI
+O.CPI
+P.Biến thiên chiphí(cost variance)Jens MartenssonBàitập: Đặt chữ cái của cụm từ thích hợp kề vào các mô tả đánh số dưới đây : 
+____ 1.Mộtcácgìđómàkhông nênxem xétđếnkhilàmquyết định vềdựántương lai.
+____ 2.Những chiphímàtacóthểdễdàng ước tínhbằng tiềntệ($US).____ 3.Doanh thu–chiphí.
+____ 4.Mộtước tínhđểxâymộtcáinhàdựatrênvịtrí,diện tích, chất lượng xâycất.
+____ 5.cũng còngọiswag hayước tínhphỏng chùng .
+____ 6.Ngân sách toàn phần banđầu(gốc) chomộtdựán.
+____ 7.cóthểtínhđược bằng BAC/CPI
+____ 8.Mộtkỹthuật đolường tínhnăng/hiệu năng củamộtdựánmàtíchhợpcảphạm vi,thờigian và
+chiphí.
+____ 9.EV/AC
+____ 10.EV-PV
+____ 11.Phân bổchiphívàotừng mục công việccáthể.
+____ 12.Mộtước tínhchiphírấtchính xác.

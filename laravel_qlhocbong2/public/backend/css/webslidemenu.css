@@ -1,0 +1,575 @@
+/*
+ * Plugin: Web Slide Navigation System
+ * Demo Link: https://uxwing.com/webslide/
+ * Author: UXWing
+ * License: http://codecanyon.net/licenses/standard
+*/
+
+/*--------------------------------------------------------------------------
+[Table of contents]
+
+01 Base CSS
+02 Desktop CSS
+03 Tab CSS
+04 Mobile CSS
+05 Additional Themes (Optionnal)
+--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------
+|  01  Base CSS
+--------------------------------------------------------------------------*/
+
+.wsfullmain html, .wsfullmain body, .wsfullmain iframe, .wsfullmain h1, .wsfullmain h2, .wsfullmain h3, .wsfullmain h4, .wsfullmain h5, .wsfullmain h6 {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font: inherit;
+  vertical-align: baseline;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: subpixel-antialiased;
+  font-smoothing: antialiased;
+  font-smooth: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: subpixel-antialiased !important;
+  font-smoothing: subpixel-antialiased !important;
+  font-smooth: subpixel-antialiased;
+}
+
+.wsfullmain .cl {
+  clear: both;
+}
+
+.wsfullmain .clearfix:before, .wsfullmain .clearfix:after {
+  content: "";
+  display: table;
+}
+
+.wsfullmain .clearfix:after {
+  clear: both;
+}
+
+.wsfullmain .clearfix {
+  zoom: 1;
+}
+
+.wsfullmain textarea {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.wsfullmain img, object, embed, video {
+  border: 0 none;
+  max-width: 100%;
+}
+
+.wsfullmain a:focus {
+  outline: none !important;
+}
+
+.wsfullmain:before, .wsfullmain:after {
+  content: "";
+  display: table;
+}
+
+.wsfullmain:after {
+  clear: both;
+}
+
+/*--------------------------------------------------------------------------
+|  02 Desktop CSS
+--------------------------------------------------------------------------*/
+
+.wsfullmain {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  min-height: 600px;
+  z-index: 100;
+  display: none;
+}
+
+.wsfullmain .wsnavitem {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  list-style: none;
+  display: block;
+}
+
+.wsfullmain .wsnavitem>li {
+  height: 100vh;
+  display: block;
+  text-align: center;
+  list-style: none;
+  font-size: 16px;
+  width: 25%;
+  float: left;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv {
+  width: 0px;
+  height: 100%;
+  background: #161f24;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  transition: all cubic-bezier(.165, .84, .44, 1) .4s;
+  padding-top: 50%;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  font-size: 15px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  opacity: 1;
+  -webkit-transition: opacity .3s, background-color .3s;
+  transition: opacity .3s, background-color .3s
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv:hover:before {
+  background: rgba(0, 0, 0, 0);
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv.wsfpartbg01 {
+  background: url(../images/wsfpartbg01.jpg) right top no-repeat;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv:hover.wsfpartbg01:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  font-size: 15px;
+  width: 100%;
+  background: transparent linear-gradient(to bottom, rgba(31, 126, 232, 0.75) 0%, rgba(4, 227, 182, 0.75) 100%) repeat scroll 0% 0%;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv.wsfpartbg02 {
+  background: url(../images/wsfpartbg02.jpg) right top no-repeat;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv:hover.wsfpartbg02:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  font-size: 15px;
+  width: 100%;
+  background: transparent linear-gradient(to bottom, rgba(212, 181, 72, 0.75) 0%, rgba(255, 87, 123, 0.75) 100%) repeat scroll 0% 0%;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv.wsfpartbg03 {
+  background: url(../images/wsfpartbg03.jpg) right top no-repeat;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv:hover.wsfpartbg03:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  font-size: 15px;
+  width: 100%;
+  background: transparent linear-gradient(to bottom, rgba(56, 182, 184, 0.75) 0%, rgba(209, 85, 255, 0.75) 100%) repeat scroll 0% 0%;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv.wsfpartbg04 {
+  background: url(./images/wsfpartbg04.jpg) right top no-repeat;
+}
+
+.wsfullmain .wsnavitem>li .wsfinnerdiv:hover.wsfpartbg04:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  font-size: 15px;
+  width: 100%;
+  background: transparent linear-gradient(to bottom, rgba(49, 200, 177, 0.75) 0%, rgba(78, 199, 255, 0.75) 100%) repeat scroll 0% 0%;
+}
+
+.wsfullmain .wsnavitem li a {
+  display: block;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.wsfboxinner {
+  width: 100%;
+  display: block;
+  min-width: 320px;
+  height: 100vh;
+}
+
+.wsfreadmore {
+  width: 200px;
+  position: absolute;
+  transition: transform 0.3s ease 0s, opacity 0.3s ease 0s;
+  background-color: #fff;
+  bottom: 0px;
+  height: 240px;
+  color: #000;
+  padding-top: 18px;
+  -webkit-transform: translateY(240px);
+  -ms-transform: translateY(240px);
+  transform: translateY(240px);
+  left: 50%;
+  margin-left: -100px;
+}
+
+.wsfinnerdiv:hover .wsfreadmore {
+  -webkit-transition: .3s -webkit-transform, .3s background-color;
+  transition: .3s transform, .3s background-color;
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  bottom: 0px;
+}
+
+.wsfullmain .wsnavitem li a strong {
+  width: 100%;
+  display: block;
+  font-size: 36px;
+  margin-bottom: 15px;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  transition: transform 0.3s ease 0s, opacity 0.3s ease 0s;
+  min-width: 208px;
+}
+
+.wsfullmain .wsnavitem li a:hover strong {
+  -webkit-transform: translateY(-90px);
+  -ms-transform: translateY(-90px);
+  transform: translateY(-90px);
+}
+
+.wsfullmain .wsnavitem li a span {
+  width: 100%;
+  color: #fff;
+  position: absolute;
+  top: 56%;
+  left: 0px;
+  -webkit-transform: translateY(0px);
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  transition: transform 0.3s ease 0s, opacity 0.3s ease 0s;
+  min-width: 208px;
+}
+
+.wsfullmain .wsnavitem li a:hover span {
+  -webkit-transform: translateY(-90px);
+  -ms-transform: translateY(-90px);
+  transform: translateY(-90px);
+}
+
+.wsfvisible .wsfullmain {
+  display: block;
+}
+
+.wsfanimated .wsfullmain .wsnavitem>li .wsfinnerdiv {
+  width: 100%;
+}
+
+/*Menu Opener*/
+
+.wsfvisible.wsfanimated #wsftoggleopen {
+  opacity: 0;
+  visibility: hidden;
+}
+
+#wsftoggleopen {
+  opacity: 1;
+  visibility: visible;
+  width: 65px;
+  height: 60px;
+  position: absolute;
+  right: 40px;
+  top: 10px;
+  font-size: 24px;
+  line-height: 54px;
+  z-index: 9999999;
+  text-align: right;
+  cursor: pointer;
+}
+
+#wsftoggleopen:before {
+  content: "Menu";
+  font-size: 11px;
+  font-style: normal;
+  text-indent: 29px;
+  text-transform: uppercase;
+  font-family: Arial;
+}
+
+#wsftoggleopen span {
+  position: relative;
+  display: inline-block;
+  width: 26px;
+  height: 2px;
+  background-color: #000;
+  vertical-align: middle;
+  -webkit-transition-duration: .3s, .3s;
+  -moz-transition-duration: .3s, .3s;
+  -ms-transition-duration: .3s, .3s;
+  -o-transition-duration: .3s, .3s;
+  transition-duration: .3s, .3s;
+  -webkit-transition-delay: .3s, 0s;
+  -moz-transition-delay: .3s, 0s;
+  -ms-transition-delay: .3s, 0s;
+  -o-transition-delay: .3s, 0s;
+  transition-delay: .3s, 0s;
+  margin-top: 1px;
+  margin-left: 6px;
+  width: 22px;
+}
+
+#wsftoggleopen span:after, #wsftoggleopen span:before {
+  content: "";
+  position: absolute;
+  display: inline-block;
+  width: 26px;
+  height: 2px;
+  left: 0;
+  background-color: #000;
+  -webkit-transition-duration: .3s, .3s;
+  -moz-transition-duration: .3s, .3s;
+  -ms-transition-duration: .3s, .3s;
+  -o-transition-duration: .3s, .3s;
+  transition-duration: .3s, .3s;
+  -webkit-transition-delay: .3s, 0s;
+  -moz-transition-delay: .3s, 0s;
+  -ms-transition-delay: .3s, 0s;
+  -o-transition-delay: .3s, 0s;
+  transition-delay: .3s, 0s;
+}
+
+#wsftoggleopen span:before {
+  top: -8px;
+  -webkit-transition-property: top, transform;
+  -moz-transition-property: top, transform;
+  -ms-transition-property: top, transform;
+  -o-transition-property: top, transform;
+  transition-property: top, transform
+}
+
+#wsftoggleopen span:after {
+  bottom: -8px;
+  -webkit-transition-property: bottom, transform;
+  -moz-transition-property: bottom, transform;
+  -ms-transition-property: bottom, transform;
+  -o-transition-property: bottom, transform;
+  transition-property: bottom, transform
+}
+
+/*Menu Close*/
+
+.wsfvisible.wsfanimated #wsftoggleclose {
+  opacity: 1;
+  visibility: visible;
+}
+
+#wsftoggleclose {
+  opacity: 0;
+  visibility: hidden;
+  width: 68px;
+  height: 60px;
+  position: absolute;
+  right: 40px;
+  top: 10px;
+  font-size: 24px;
+  line-height: 54px;
+  z-index: 9999999;
+  text-align: right;
+  cursor: pointer;
+}
+
+#wsftoggleclose:before {
+  content: "Close";
+  font-size: 11px;
+  font-style: normal;
+  text-indent: 29px;
+  text-transform: uppercase;
+  font-family: Arial;
+  color: #fff;
+}
+
+#wsftoggleclose span {
+  position: relative;
+  display: inline-block;
+  width: 26px;
+  height: 2px;
+  vertical-align: middle;
+  background-color: transparent;
+  -webkit-transition-duration: .3s, .3s;
+  -moz-transition-duration: .3s, .3s;
+  -ms-transition-duration: .3s, .3s;
+  -o-transition-duration: .3s, .3s;
+  transition-duration: .3s, .3s;
+  -webkit-transition-delay: 0s, 0s;
+  -moz-transition-delay: 0s, 0s;
+  -ms-transition-delay: 0s, 0s;
+  -o-transition-delay: 0s, 0s;
+  transition-delay: 0s, 0s;
+  margin-top: 1px;
+  margin-left: 6px;
+  width: 22px;
+}
+
+#wsftoggleclose span:after, #wsftoggleclose span:before {
+  content: "";
+  position: absolute;
+  display: inline-block;
+  width: 26px;
+  height: 2px;
+  left: 0;
+  background-color: #fff;
+  -webkit-transition-duration: .3s, .3s;
+  -moz-transition-duration: .3s, .3s;
+  -ms-transition-duration: .3s, .3s;
+  -o-transition-duration: .3s, .3s;
+  transition-duration: .3s, .3s;
+  -webkit-transition-delay: 0s, .3s;
+  -moz-transition-delay: 0s, .3s;
+  -ms-transition-delay: 0s, .3s;
+  -o-transition-delay: 0s, .3s;
+  transition-delay: 0s, .3s;
+}
+
+#wsftoggleclose span:before {
+  top: 0;
+  background: #fff;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg)
+}
+
+#wsftoggleclose span:after {
+  bottom: 0;
+  background: #fff;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg)
+}
+
+/*Color Animation*/
+
+.wsfanimatedcolors {
+  background: linear-gradient(233deg, #fb5f65, #f7c66d, #6fce6f, #49a5ea, #9b6de3);
+  background-size: 1000% 1000%;
+  -webkit-animation: wsgdrcolors 30s ease infinite;
+  -moz-animation: wsgdrcolors 30s ease infinite;
+  animation: wsgdrcolors 30s ease infinite;
+}
+
+@-webkit-keyframes wsgdrcolors {
+  0% {
+    background-position: 0% 90%
+  }
+  50% {
+    background-position: 100% 11%
+  }
+  100% {
+    background-position: 0% 90%
+  }
+}
+
+@-moz-keyframes wsgdrcolors {
+  0% {
+    background-position: 0% 90%
+  }
+  50% {
+    background-position: 100% 11%
+  }
+  100% {
+    background-position: 0% 90%
+  }
+}
+
+@keyframes wsgdrcolors {
+  0% {
+    background-position: 0% 90%
+  }
+  50% {
+    background-position: 100% 11%
+  }
+  100% {
+    background-position: 0% 90%
+  }
+}
+
+/*Color Animation*/
+
+/*--------------------------------------------------------------------------
+|  03 Tab CSS
+--------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 781px) {}
+
+/*--------------------------------------------------------------------------
+|  04 Mobile CSS
+--------------------------------------------------------------------------*/
+
+@media only screen and (max-width: 780px) {
+  .wsfullmain .wsnavitem>li .wsfinnerdiv {
+    width: 100%;
+    height: 0px;
+  }
+  .wsfullmain .wsnavitem>li {
+    width: 100%;
+    height: 25vh;
+  }
+  .wsfvisible .wsfullmain {
+    display: block;
+  }
+  .wsfanimated .wsfullmain .wsnavitem>li .wsfinnerdiv {
+    height: 100%;
+  }
+  .wsfullmain .wsnavitem li a strong {
+    font-size: 22px;
+  }
+  .wsfullmain .wsnavitem li a strong {
+    margin-bottom: 10px;
+  }
+  .wsfullmain .wsnavitem>li .wsfinnerdiv {
+    padding: 0px;
+  }
+  .wsfreadmore {
+    font-size: 14px;
+    height: 30px;
+    padding: 6px 0;
+  }
+  .wsfullmain .wsnavitem>li .wsfinnerdiv {
+    background-size: cover !important;
+    background-position: center center !important;
+  }
+  .wsfullmain .wsnavitem li a:hover strong {
+    -webkit-transform: translateY(-20px);
+    -ms-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+  .wsfullmain .wsnavitem li a span {
+    display: none;
+  }
+}

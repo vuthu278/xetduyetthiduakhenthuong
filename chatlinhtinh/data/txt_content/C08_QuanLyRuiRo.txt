@@ -1,0 +1,1040 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP.HCM
+KHOA CÔNG NGHỆ THÔNG TIN
+(PROJECT RISK MANAGEMENT)
+1NỘI DUNG
+8.1. Khái quát vềquátrình quản lýrủiro
+8.2. Xácđịnh rủiro
+8.3.   Lậpkếhoạch quản lýrủiro
+8.4. Phân tíchđịnh lượng vàđịnh tínhrủiro
+8.5. Lậpkếhoạch đốiphórủiro
+8.6. Kiểm soátrủiro
+2QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Quản lýrủiro
+Rủirodựánlàbấtkỳsựkiện
+hoặc điều kiện không chắc
+chắn nàocóthểảnhhưởng
+đếnmục tiêucủadựán. 
+Không phải tấtcảrủirođều
+tiêucực.
+Rủi ro là một sự kiện hay 
+một hoạt động có khảnăng 
+xảy ra trong tương lai và khi 
+xảy ra thì sẽ có thể tác động 
+tiêu cực đến dự án3
+QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Quản lýrủiro
+•Quản lýrủirodựánbaogồm cácquytrình thực
+hiện quyhoạch quản lýrủiro,xácđịnh, phân tích,
+lậpkếhoạch phản ứng, vàtheo dõivàkiểm soát
+trong mộtdựán.
+•Mục tiêu củaquản lýrủirolàchủđộng quản lý
+vàkiểm soát những vấn đềtiềm ẩnnhằm ngăn
+chặn vàgiảm thiểu những tổnthấtdorủirogâyra
+vàđểtăng xácsuất,tácđộng củasựkiện tíchcực,
+vàlàmgiảm khảnăng vàtácđộng củacácsựkiện
+tiêucựctrong dựán
+4QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Tầm quan trọng củaQuản lýrủiro
+•Bất kỳ dự án nào cũng phải đối diện với những 
+vấnđềcó khả năng tác động đến mục tiêu dự án . 
+•Những vấnđềnày có thể được dự báo trước hoặc 
+đôi khi không thể dự báo trước . 
+•Một khi được dự báo trước, nhóm dự án sẽ có 
+những biện pháp chủ động ngăn ngừa , nhằm hạn 
+chế được tác động xấuđếndựán
+5QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Tính chất củarủiro
+•Mọi dự án đều chứa đựng rủi ro
+•Một số giai đoạn của dự án chắc chắn sẽ không 
+đúng kế hoạch, vì lý do khách quan
+•Rủi ro khó được loại trừ triệt để
+6QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Vaitròcủaquản lýrủiro
+•Giảm thiểu tổnthấtgâyra bởicácsựkiện ngoài ý 
+muốn
+•Tăng cường ý thức kiểm soát dự án
+7QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Phân loạiquản lýrủiro
+–Rủirovềlịchthực hiện cáccông việc củadựán
+–Rủirovềchi phí
+–Rủirovềquản lýcácyêucầucủadựán
+–Rủirovềchất lượng dựán
+–Rủirovềthao tác. 
+–Rủironếudựánmắc nhiều lỗicơbản
+8QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Phân loạiquản lýrủiro
+•Cácrủirobiếttrước : yêucầucủakhách hàng không
+rõràng, độingũlàmviệc củadựánkhông cókinh
+nghiệm . 
+•Cácrủirokhông biếttrước nhưng cóthểdựđoán
+được dựatrênkinh nghiệm : việc traođổivớikhách
+hàng , độingũphát triển dựánkhông vững chắc.
+•Cácrủirokhông cókhảnăng biếttrước : thiên tai 
+gâyảnhhưởng đếnquátrình phát triển công nghệ
+thông tin. 
+9QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Không dựđoán trước
+•Một nhân viên nàođóbịtainạngiao thông, tainạnlaođộng
+•Mấttrộm
+Dựđoán trước
+•Một nữnhân viên nghỉ sinh con
+•Một nhân viên được cơquan bốtríchođihọcởnước ngoài trong nhiều tháng
+•Giáthuê vănphòng tăng
+•Thủtrưởng phải họpquốc hộitrong nhiều tuần, không aikýtờtrình
+•Hàng hoá, thiết bịvềmuộn hơnsovớidựkiến
+•Tiền mấtgiá
+•Một kỹsưgiỏibỏsang cơquan (hoặc Công ty)khác .
+•Máy tínhbịvirus
+•Thay đổibộmáy lãnh đạo, banlãnh đạomới cóthểkhông theo dõidựántừ
+đầu, không tạođiều kiện thuận lợi
+10QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Câu hỏi: 10 loại Rủi ro trong DA phần mềm tại Tp.HCM 
+•Yêu cầu của hệ thống liên tục thay đổi
+•Yêu cầu của hệ thống không rõ ràng
+•Giới hạn (scope) của yêu cầu hệ thống không được xác định rõ 
+ràng ngay từ ban đầu
+•Biến động về nhân sự trong quá trình thực hiện dựán
+•Những thành viên trong nhóm thiếu những kỹ năng cần thiết 
+cho dự án
+•Thiếu sự kiểm soát chặt chẽ của quản lý cấp trên
+•Ước lượng (estimate) ban đầu cho dự án không phùhợp
+•Khách hàng phản hồi (feedback) chậm
+•Dựán đòi hỏi những kỹ thuật quá phức tạp
+•Các thành viên không nhiệt tình với dự án11QUI TRÌNH CỦA QUẢN LÝ RỦI RO
+Quản lýrủirobao gồm cácquytrình : 
+•Plan Risk Management: Lậpkếhọach quản lýrủiro
+•Identify Risks: xác định rủi ro. 
+•Perform Qualitative Risk Analysis: Phân tíchtính
+chất rủiro. 
+•PerformQuantitative Risk Analysis: Phân tích mức 
+độ rủi ro. 
+•Plan Risk Responses: Kế hoạch đối phó rủi ro. 
+•Monitor and Control Risks: Giám sátvàkiểm soát
+rủiro. 
+12CÁC QUI TRÌNH CỦA QUẢN LÝ RỦI RO
+Trình tựcácbướctrong quytrình quản lýrủiro
+13KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+•Kếhoạch quản lýrủirolàquátrình xácđịnh làm
+thếnàođểthực hiện cáchoạt động quản lýrủiro
+chomộtdựán
+•Kếhoạch quản lýrủirocung cấpđủnguồn lực
+vàthời gian chocáchoạt động quản lýrủiro,và
+thiết lậpmộtcơsởthỏa thuận vềđánh giárủiro.
+•Quá trình quản lýrủironênbắtđầunhưmộtdự
+ánđược hình thành vàsẽđược hoàn thành sớm
+trong quátrình lậpkếhoạch dựán.
+•Thành viên trong dựánnênxem xétcáctàiliệucủa
+dựánvànắm được nguy cơdẫntớirủiro
+14KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Inputs :
+•Project Scope Statement :cung cấpmột ýnghĩa rõ
+ràng vềphạm vivàthiết lậpmộtkhuôn khổchocácnỗ
+lựcquản lýrủiro
+•Cost Management Plan :xácđịnh ngân sách rủiro.
+•Schedule Management Plan
+•Communications Management Plan :xác định sự
+tương tácsẽxảyratrong dựán,vànhững người có
+mặtđểchia sẻthông tinvềnhững rủiro
+•Enterprise Environmental Factors
+•Organizational Process Assets
+15KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Tools andTechniques :
+•Planning Meetings and Analysis :Các độidựán
+tổchức cáccuộc họpđểphát triển kếhoạch quản lý
+rủiro.
+•Người tham dựtạicáccuộc họp này cóthểbao
+gồm
+–Quản lýdựán.
+–Cácthành viên nhóm dựán
+–Cácbênliênquan được chọn .
+•Người trong tổchức cótrách nhiệm quản lýhoạch
+định rủirovàcáchoạt động thực hiện.
+16KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Các câuhỏicầnđềcậptrong kếhoạch quản lýrủiro
+•Tạisaođiều quan trọng làcó/không tính rủironày
+trong mục tiêuDựán?
+•Cáigìlàrủirođặcthù,vàcáckếtxuất vềngăn chặn
+rủiro?
+•Rủironàycóthểngăn chặn nhưthếnào?
+•Những ailàcótrách nhiệm vềthực hiện kếhoạch
+ngăn chặn rủiro?
+•Khinàothìhiện racácmốc chính trong cáctiếpcận
+rủiro?
+•Cầnnhững tàinguyên gì,tớiđâuđểngăn chặn rủiro?
+17KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Trong LậpKếhọachrủiro,cầnphải cóthêm Kếhọach
+dựphòng, Kếhọach rútlui,Quỹ dựphòng :
+•Kếhoạch dựphòng (đối phó những bấtngờ) là
+những hoạt động xácđịnh trước màthành viên của
+dựánsẽthực hiện nếumộtsựkiện rủiroxuất hiện
+•Kếhoạch rútluiđược thực hiện chonhững rủirocó
+tácđộng lớntớinhững yêucầumục tiêucủadựán
+•Quỹ dựphòng (bất ngờ) haytiềntrợcấpđược giữ
+bởinhàtàitrợvàcóthểdùng giảm nhẹchiphíhay
+rủirolịchbiểu nếucónhững sựthay đổivềphạm vi
+haychất lượng
+18KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Một sốphạm trùrủirokhác giúp nhận biếtnhững rủiro
+tiềm tàng:
+•Rủirothịtrường :Sảnphẩm mớisẽhữuíchchocông
+tyhaycóthểtiêuthụnóởcáccông tykhác? Vàliệu
+người tiêudùng cóchấp nhận sảnphẩm haydịch vụđó
+không?
+•Rủirotàichính :Liệu công tycóđủđiều kiện đểthực
+hiện dựán?Cóphải dựánnàylàcách tốtnhất đểsử
+dụng nguồn tàichính củacông ty?
+•Rủi rocông nghệ :Liệu dựáncókhảthivềmặtkỹ
+thuật? Liệu công nghệ nàycólỗithời trước khimột
+sảnphẩm được sảnxuất? 19KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+Outputs :
+Risk Management Plan :
+•Methodology :Xác định cácphương pháp, công
+cụ,vàcácnguồn dữliệu cóthểđược sửdụng để
+thực hiện quản lýrủirovềdựán.
+•Roles and responsibilities :Xác định sựlãnh đạo,
+hỗtrợ,vànhóm thành viên quản lýrủirođốivới
+từng loạihoạt động trong kếhoạch quản lýrủiro,
+xácđịnh rõtrách nhiệm .
+•Budgeting :chỉđịnh nguồn lực, dựtoán kinh phí
+cầnthiết choviệc quản lýrủiro.
+20KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+•Timing :Xác định khinàovàbaolâuquátrình quản
+lýrủirosẽđược thực hiện trong suốt vòng đờidự
+án,thiết lậpcácgiao thức choápdụng cáckhoản dự
+phòng lịchtrình, vàthiết lậpcáchoạt động quản lý
+rủirođược baogồm trong tiếnđộdựán
+•Risk categories :Cung cấpmột cấutrúc nhằm đảm
+bảomộtquátrình toàn diện vềhệthống xácđịnh rủi
+ro.Cóthểsửdụng Risk Breakdown Structure (RBS)
+•Definitions ofrisk probability and impact :Định
+nghĩa củaxácsuấtrủirovàtácđộng
+21KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+•Probability and impact matrix: Rủi ro được ưu 
+tiên theo tác động tiềm năng của nó có ảnh hưởng 
+đến mục tiêu của dự án 
+•Reporting formats: Xác định các kết quả của các 
+quy trình quản lý rủi ro như thế nào sẽ được ghi 
+chép, phân tích, và truyền đạt. 
+22KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+•Kếtquảcủaquátrình lậpkếhoạch quản lýrủiro
+–Cung cấp một cấu trúc nhằm đảm bảo một quá 
+trình toàn diện về hệ thống xác định rủi ro . Cóthể
+sửdụng Risk Breakdown Structure (RBS)
+–Định nghĩa của xác suất rủi ro và tác động
+–Rủi ro được ưu tiên theo tác động tiềm năng của 
+nócó ảnh hưởng đến mục tiêu của dự án
+–Xác định các kết quả của các quy trình quản lý rủi 
+ro như thế nào sẽ được ghi chép, phân tích, và 
+truyền đạt
+23KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+24
+KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+•Ví dụ: Nhóm Standish Group phát triển bảng điểm tiềm 
+năng thành công của các dự án CNTT dựa trên các rủi 
+ro tiềm năng, theo Bảng sau đây :
+25KẾ HOẠCH QUẢN LÝ RỦI RO CỦA DỰ ÁN 
+•Vídụ:Công tyMcFarlan phát triển mộthệthống thăm dò
+rủirogiúp đánh giárủiro,chẳng hạnquaBảng thăm dòsau
+đây:
+26XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+•Xác định rủirolàquátrình xácđịnh cácvấnđềcóthểảnh
+hưởng đếndựánvàtàiliệuvềđặcđiểm củanó.
+•Xác định rủirolàmộtquátrình lặpđilặplạivìnócóthể
+phát triển trong suốt vòng đờicủadưán.
+•Quá trình nàychỉliênquan đếncácnhóm dựánđểhọduy
+trìmột ýthức vềtrách nhiệm vàhoạt động đốiphó với
+những rủiro.
+27XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Inputs :
+•Risk Management Plan :kếhoạch quản lýrủirocung cấp
+thông tinchủyếuchoquátrình xácđịnh rủiro.
+•Activity Cost Estimates :đánh giáđịnh lượng chiphíđể
+hoàn thành cáchoạt động dựkiến, thểhiện củaphạm vicho
+thấy mức độrủiro.
+•Activity Duration Estimates :xácđịnh cácrủiroliênquan
+đếntrợcấpthờigian chocáchoạt động
+•Scope Baseline :Sựkhông chắc chắn trong cácgiảđịnh của
+dựánlànguyên nhân tiềm năng củarủirodựán.
+28
+XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Inputs :
+•Stakeholder Register :đảm bảo cácbênliên quan, được
+phỏng vấnhoặc tham giaxácđịnh rủiro.
+•Cost Management Plan :Quá trình xácđịnh rủirođòihỏi
+một sựhiểu biếtvềcáckếhoạch quản lýchiphíđược tìm
+thấy trong kếhoạch quản lýdựán.
+•Schedule Management Plan :quản lýlịchtrình cụthểcó
+thểlàmgiảm bớtnguy cơrủiro.
+•Quality Management Plan
+•Project Documents
+29XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Inputs: 
+•Enterprise Environmental Factors 
+•Organizational Process Assets: 
+–Dữliệucủadựán, bao gồm cảcácdữliệuthực tế
+–Quy trình tổ chức và điều khiển dự án. 
+–Mẫu báocáorủiro. 
+–Bàihọckinh nghiệm
+30XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+•Xem lạicác tàiliệu dựán-Documentation
+Reviews :baogồm việc xem xétcáctàiliệucủadự
+ánnhư cáckếhoạch, giảđịnh, cam kếtvớikhách
+hàng, cơchếthông tingiữa 2bên, môi trường dự
+án,thông tincủacácdựánkhác trong quákhứ...,
+từđónhận diện cácyếutốcókhảnăng gâyrarủi
+rochodựán.
+31XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+•Information Gathering Techniques :kỹthuật thuthập
+thông tin
+–Brainstorming :Đây làkỹthuật được sửdụng rộng rãi
+nhất đểnhận diện rủirovàhầunhưbấtcứaitrong đời
+cũng đãtừng sửdụng kỹthuật nàycho nhiều vấnđề
+khác nhau trong cuộc sống .Đólàsựđóng gópýkiến từ
+nhiều người khác nhau, từcácchuyên giađếncácthành
+viên củadựán,hoặc bấtcứaicóliênquan hoặc cókinh
+nghiệm vềcácvấnđềxảyratrong dựán.Từnhững ý
+kiến này(cóthểnhiều ýtrùng nhau), cácrủirosẽđược
+định vịnhanh chóng .
+32XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+•Information Gathering Techniques :kỹthuật thuthập
+thông tin
+–Delphi technique :Tương tựkỹthuật "Động não", khác
+biệtchỉlàcácthành viên tham giakhông biếtnhau, do
+đókỹthuật nàythích hợpnếucácthành viên ởxanhau .
+Ngày naykỹthuật Delphi thực hiện dễhơntrước đâydo
+sựtrợgiúp củaemail vàhệthống hỗtrợlàmviệc từxa.
+Dothành viên là“vôdanh” nênkỹthuật nàyhạnchế
+nhược điểm củakỹthuật "Động não" làmộtvàicánhân
+(chẳng hạnsếp) sẽcóảnhhưởng đếnsuynghĩ củacác
+thành viên khác .
+33XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+Nhóm danh nghĩa
+•Nhóm làmviệc từ7-10người, mỗithành viên sẽghiýkiến
+riêng củamình (thường là1rủiroquan trọng nhất) trên 1
+mẫu giấy.
+•Các ýkiến sauđóđược tậphợp vànhóm sẽphân tíchvà
+đánh giátrêntừng ýkiến.
+•Kếtquảlàrủiroquan trọng nhất được sắpxếptrên cùng .
+Kỹthuật nàykhông chỉdùng đểnhận biếtmàcònđểđánh
+giárủiro;không loại bỏhoàn toàn những người cóảnh
+hưởng ;được thực hiện nhanh vàíttốnkém hơn kỹthuật
+Delphi
+34XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+Hỏiýkiến chuyên gia
+•Thường được dùng đểhỏiýkiến cánhân củanhững người
+cónhiều kinh nghiệm từcácdựántương tựhoặc cácdựán
+đãhoàn thành trong quákhứ.
+•Công cụsửdụng thường làbảng câuhỏicótrảlờisẵnđể
+chọn lựa, hoặc đểtrống chongười được hỏitựghiýkiến
+hoặc trảlời.
+35XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+•Phiếu kiểm trahoặc bảng câu hỏithường đúckếtkinh
+nghiệm từcácdựánquákhứ đặcbiệtvàcácdựántương
+tự,trong đóliệtkênhững rủirothường haygặpnhất.Phiếu
+nàygiúp chodựánnhanh chóng xácđịnh rủirocóthểxảy
+đếnchodựán.
+•Kỹthuật này cóthểtham khảo cáckinh nghiệm từbên
+ngoài, một trong những tham khảo tốttheo cách nàylàsử
+dụng bảng phân loại vàliệtkêcácrủirothường gặpcủa
+viện Kỹthuật Phần mềm Hoa Kỳ(SEI Taxonomy -Based
+Risk Identification) có thể tải về miễn phí tại
+http://www .sei.cmu.edu/publications/documents/ 93.reports/
+93.tr.006.html.
+36XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+Sửdụng biểu đồ(Diagramming Techniques} :
+•Sửdụng nhiều dạng biểu đồkhác nhau đểphân tíchvàxác
+định rủiro,chẳng hạnbiểu đồxương cá(còn gọilàbiểu đồ
+nhân quả) được sửdụng đểchỉsựliênquan vàảnhhưởng
+củacácyếutốrủirokhác nhau, từđóxácđịnh rủirocóthể
+ảnhhưởng đếndựán.
+•Biểu đồquytrình chothấy sựnốitiếptrong chuỗi cácsự
+kiện, từđóxácđịnh cácyếutốcóthểgâyrủirochodựán.
+37XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools and Techniques: 
+•Interviewing: Phỏng vấn kinh nghiệm tham gia dự 
+án của các bên liên quan, đối tượng chuyên gia xác 
+định các rủi ro. 
+•Checklist Analysis: xác định rủi ro có thể được 
+phát triển dựa trên các thông tin lịch sử và kiến 
+thức đã được tích lũy từ các dự án tương tự trước 
+đó và từ các nguồn thông tin khác 
+•Assumptions Analysis: Mỗi nhận diện rủi ro của 
+dự án được dựa trên một tập hợp các giả thuyết, 
+kịch bản, hoặc giả định. 
+38XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Tools andTechniques :
+•SWOT (strengths, weaknesses, opportunities,
+and threats) Analysis :Kỹthuật nàyxem xétcác
+dựántừmỗiquan điểm SWOT (điểm mạnh, điểm
+yếu, cơhội,vàcácnguy cơ)đểtăng phạm vinhận
+diện cácrủiro.
+•Expert Judgment :kinh nghiệm củacácchuyên
+giagiúp nhận biếtxuthếcủarủiro,phân loạirủiro
+39XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Phương pháp dựđoán rủiro:
+•Phương pháp tốtnhất đểxácđịnh danh sách cácrủiro
+lànhìn vàolịchsử
+•Rủi rocóthểdựđoán :Nhân viên nghỉ thaisản, giá
+thuê vănphòng tăng, thiết bịvềtrễsovớidựkiến,…
+•Rủi rokhông thểdựđoán/có xácsuất xảyrathấp :
+hoảhoạn, nhân viên độttử,khủng bố,…
+•Không nên tậptrung tàinguyên đểdựđoán vàđề
+phòng rủiro,vìsẽtrảgiáđắtnếurủirokhông xảyra
+•Chủ yếuquan tâm đếnnhững rủirocóthểdựđoán
+được
+40XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Phương pháp dựđoán rủiro: 
+•Các tình huống rủi ro thường gặp
+–Nhân viên không làm được việc
+–Không chủ động về tài nguyên (do bên thứ bacung cấp)
+–Phải gấp rút hoàn thành dự án trước hạn
+–Tài chính không ổn định
+–Giải pháp sai
+–Yêu cầu/đặc tả không tốt
+–Không hiểu biết về người dùng
+–Mấtmátdữliệu
+–…
+41XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Bảng phân loại rủi ro
+42XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Bảng quản lý rủi ro
+43XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Outputs :
+•Risk Register :đăng kýrủirochứa cáckếtquảcủa
+cácquytrình quản lýrủiro,sựgiatăng mức độvà
+loạithông tinchứa trong đăng kýrủirotheo thời
+gian.
+•Kếtquảcủaviệc xácđịnh rủirolàthông tinban
+đầuchoviệc đăng kýrủiro,baogồm:
+–List ofidentified risks :Danh sách rủirođược môtả
+càng chitiếtcàng hợplý.
+–List ofpotential responses :Phản ứngtiềm năng rủiro
+được xácđịnh trong quytrình xácđịnh rủiro.
+44XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Lưu ýtrong quản lýrủiro
+•Việc dựbáorủirophụ thuộc kinh nghiệm người
+quản lýdựán
+•Kiểm soát rủirolànhằm giảm thiểu thiệt hại,
+không códựánnàohoàn toàn tránh được rủiro
+•Những thiệt hạivềchất lượng, thờigian vàtiềnbạc
+màrủirogâyrachodựánphải được lưuthành tài
+liệu
+•Công bốrủirovànguyên nhân nếucần
+•Dựáncàng lớn,rủirocàng nhiều
+45XÁC ĐỊNH RỦI RO (IDENTIFY RISKS)
+Bàitập
+Vẽbảng quản lýrủirochokếhoạch cắm trại
+46THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+•Đánh giákhảnăng cóthểxãyra vàtácđộng của
+rủirođểxácđịnh quymôvàđộưutiên. 
+•Phân tích định tính :mô tả tác động của mỗi loại 
+rủi ro và sắp xếp chúng vào từng nhóm mức đ ộ: rủi 
+ra cao, trung bình, thấp. 
+•Mục đích của phân tích định tính : đánh giá tổng 
+thể xem rủi ro tác động đến những bộ phận nào và 
+mức độ ảnh hưởng của nó đến từng bộ phận và toàn 
+bộ dự án.
+47THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Phân tíchkhảnăng xuất hiện củarủiro:có4mức
+•Thường xuyên :Khả năng xuất hiện rủirorấtcao,
+xuất hiện trong hầuhếtdựán
+•Hay xảy ra:Khả năng xuất hiện rủirocao, xuất
+hiện trong nhiều dựán
+•Đôikhi:Khả năng xuất hiện rủirotrung bình, chỉ
+xuất hiện ởmộtsốítdựán
+•Hiếm khi:Khả năng xuất hiện thấp, chỉxuất hiện
+trong những điều kiện nhất định.
+48THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Phân tíchmức tácđộng củarủiro:Có4mức
+•Trầm trọng :Cókhảnăng rấtcaolàmdựánthất
+bại
+•Quan trọng :Gây khó khăn lớnvàlàm dựán
+không đạtđược cácmục tiêu
+•Vừa phải :Gây khó khăn chodựán,ảnh hưởng
+việc đạtcácmục tiêucủadựán
+•Không đáng kể:Gây khókhăn không đáng kể.
+49THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Phân tích thời điểm xuất hiện rủi ro : 
+•Ngay lập tức: Rủi ro xuất hiện gần như tức khắc
+•Rất gần: Rủi ro sẽ xuất hiện trong thời điểm rất gần 
+thời điểm phân tíc h
+•Sắp xảy ra: Rủi ro sẽ xuất hiện trong tương lai gần
+•Rất lâu: Rủi ro sẽ xuất hiện trong tương lai xa hoặc 
+chưa định được.
+Ghi chú: Các giá trị số cho trên chỉ mang tính tham 
+khảo và minh họa, giá trị của chúng được định tùy tổ 
+chức, tùy dự án.
+50THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Inputs :
+•Risk Register
+•Risk Management Plan :vaitròvàtrách nhiệm thực
+hiện quản lýrủiro,ngân sách, hoạt động tiếnđộquản
+lýrủiro,cácloạirủiro,định nghĩa củaxácsuất và
+tácđộng, xácsuấtvàmatrậntácđộng .
+•Project Scope Statement
+•Organizational Process Assets
+–Thông tinvềdựántương tựtrước đãhoàn thành
+–Các nghiên cứuvềcácdựántương tựbởicácchuyên gia
+vềrủiro.
+–Cơsởdữliệurủirocósẵn. 51THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Tools andTechniques :
+–Ma trậnXácsuất/Tácđộng . 
+–Đánh giácủachuyên gia: họcóthểphân loạirủi
+ro
+–Kỹthuật theo dõi10 danh mục rủirohàng đầu.
+52THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Tools andTechniques :
+Risk Probability andImpact Assessment :
+•Đánh giáxácsuất rủiro(Risk probability assessment) :
+điều trakhảnăng từng rủirocụthểsẽxảyra.
+•Đánh giátácđộng rủiro(Risk impact assessment) :điều
+traảnhhưởng tiềm năng trên mục tiêucủadựánnhư tiến
+độ,chất lượng, chiphí,hoặc thực hiện.
+•Probability and Impact Matrix :Đánh giátầmquan trọng
+củamỗi rủiro,thường được thực hiện bằng cách sửdụng
+bảng hoặc matrậnxácsuấtvàtácđộng .
+53THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+•Mỗi rủi ro được đánh giá trên xác suất xảy ra và ảnh hưởng đến một mục 
+tiêu. 
+•Ngưỡng cho rủi ro: thấp, trung bình hoặc cao được thể hiện trong ma trận. 
+•Xác định rủi ro được cho điểm cao, trung bình hoặc thấp cho mục tiêu đó. 
+Impact (relative scale) on an objective (e.g., cost, time, scope or quality) 
+54THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+•Ước lượng và phân hạng các rủi ro
+Rủi ro sau đó được tính giá trị để ước lượng bằng công thức:
+Risk Exposure = Risk Impact * Risk Probability * Time 
+Frame
+55
+Tiếp theo rủi ro được phân hạng từ 
+cao đến thấp dựa theo các giá trị 
+Risk Exposure tính toán được. Tùy 
+theo tổ chức và đặc thù từng dự án, 
+trưởng dự án (hoặc người được 
+phân công) sẽ xác định những rủi 
+ro nào cần đưa vào kiểm soát, với 
+các mức ưu tiên khác nhau.THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Risk Data Quality Assessment: 
+•Phân tích định lượng rủi ro đòi hỏi phải có dữ liệu chính xác, 
+khách quan, tin cậy. 
+•Là một kỹ thuật để đánh giá mức độ mà các dữ liệu về các rủi ro 
+có ích cho việc quản lý rủi ro. 
+•Risk Categorization: Rủi ro dự án được phân loại theo nguồn 
+gốc, khu vực bị ảnh hưởng bởi dự án, hoặc theo loại. Nhóm rủi 
+ro do các nguyên nhân chung sẽ làm cho việc phản ứng rủi ro 
+hiệu quả. 
+•Risk Urgency Assessment: đánh giá mức độ nghiêm trọng của 
+rủi ro dựa vào các yếu tố: 
+–Thời gian cầngiảiquyết rủirongắn
+–Dựa vào bảng xếp hạng hoặc ma trận xác suất và tác động 
+56THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+57•Tiêu chíxácsuất xảyra rủiro
+Đánh giáđịnh
+tínhĐánh giáđịnh
+lượngMôtả
+Rất cao > 84% Gần nhưchắc chắn xảyra 
+Cao 60 –84% Nhiều khả năng sẽ xảy ra 
+Trung bình  35 –59% Có vẻ như sẽ xảy ra 
+Thấp 10 –34% Nhiều khảnăng không xảy
+ra THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+•Expert Judgment: 
+–Các chuyên gia là những người có kinh nghiệm với các dự án 
+tương tự đã xảy ra trong quá khứ. 
+–Những người đang có kế hoạch và quản lý các dự án cụ thể. 
+–Đảm bảo sự phán xét chuyên gia thường được thực hiện với việc 
+sử dụng hội thảo hoặc phỏng vấn. 
+58THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+•Kỹ thuật theo dõi 10 danh mục rủi ro hàng đầu : là một công cụ 
+để duy trì kiểm soát rủi ro trong suốt vòng đời của dự án.
+–Thiết lập việc xem xét định kì 10 rủi ro hàng đầu của dự án.
+–Liệt kê thứ tự hiện tại, thứ tự trước đó, số lần một rủi ro xuất hiện 
+trong danh sách trong một khoảng thời gian và tổng hợp quá trình 
+thực hiện để giải quyết rủi ro
+59
+THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Outputs :
+•Risk Register Updates
+•Relative ranking orpriority listofproject risks :Thứ hạng
+hoặc độưutiêncủarủiro.
+•Risks grouped bycategories :Nhóm rủirotheo loại
+•Causes ofrisk orproject areas requiring particular
+attention :Nguyên nhân củarủirorohoặc khuvựccủadựán
+đòihỏisựquan tâmđặcbiệt
+•List ofrisks requiring response inthenear -term :Danh sách
+cácrủirođòihỏiđốiphótrong ngắn hạn
+•List ofrisks foradditional analysis andresponse .
+60THỰC HIỆN PHÂN TÍCH ĐỊNH TÍNH RỦI RO 
+(PERFORM QUALITATIVE RISK ANALYSIS)
+Outputs :
+•Watch lists oflow-priority risks :Danh sách theo dõi
+củacácrủiroưutiênthấp.
+•Trends inqualitative risk analysis results :xuhướng
+trong kếtquảphân tíchđịnh tínhrủiro.
+61THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+•Phân tíchđịnh lượngthường thực hiện sau phân 
+tích rủi ro định tính , nhưng cả hai có thể được 
+thực hiện cùng nhau hoặc riêng biệt. Các dự án lớn, 
+phức tạp có các công nghệ mũi nhọn thường yêu 
+cầu phân tích rủi ro định lượng kĩ càng.
+•Phân tích định lượng :phân tích tácđộng của
+những sựkiện rủiro,được sửdụng đểchỉđịnh một
+sốđánh giánhững rủiroriêng lẻhoặc đánh giáảnh
+hưởng tổng hợpcủatấtcảcácrủiroảnhhưởng đến
+dựán.
+62THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+Inputs 
+•Risk Register 
+•Risk Management Plan 
+•Cost Management Plan 
+•Schedule Management Plan 
+•Organizational Process Assets 
+63THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+Tools andTechniques
+•Data Gathering andRepresentation Techniques :
+•Interviewing :Kỹthuật phỏng vấntrên kinh nghiệm
+vàcácdữliệulịchsửđểđịnh lượng khảnăng vàtác
+động củarủirođếncácmục tiêucủadựán.
+•Phỏng vấncácbênliênquan sẽgiúp xácđịnh dựtoán
+bađiểm chomỗiyếutốWBS .
+•Vídụ:khảnăng hoàn thành dựánbằng hoặc thấp hơn
+ướctính, khảnăng nhất là$41triệu USD làtương đối
+nhỏnhưthểhiện trong cáckếtquảmôphỏng
+64THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+65THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+Probability distributions :phân bốxácsuất
+•Phân bốliêntụcđược sửdụng rộng rãitrong mô
+hình hóa vàmôphỏng biểu diễn sựkhông chắc
+chắn trong cácgiátrịnhưthời gian lịchtrình hoạt
+động vàchiphícủacácthành phần củadựán.
+•Phân bốrờirạccóthểđược sửdụng đểbiểu diễn
+chocácsựkiện không chắc chắn như kếtquảcủa
+mộtthửnghiệm hoặc mộtkịch bảncóthểcótrong
+câyquyết định
+66THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+•Trục ngang (X) đại diện cho các giá trị có thể có của thời 
+gian, chi phí 
+•Trục dọc (Y) đại diện cho khả năng liên quan. 
+67THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+•Quantitative Risk Analysis and Modeling
+Techniques :Phân tích rủirođịnh lượng vàcáckỹ
+thuật môhình hóa
+•Sensitivity analysis :Phân tíchđộnhạy sẽgiúp xác
+định cácrủirocótácđộng tiềm năng nhất đếndựán.
+•Expected monetary value analysis (EMV) :phân
+tíchgiátrịtiềntệdựkiến làmộtkhái niệm thống kê
+tính toán kếtquảtrung bình khitương laibaogồm
+cáckịch bảncóthểcóhoặc không cóthểxảyra.Một
+cách phổ biến củaloại hình này làphân tích cây
+quyết định
+68THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+•Cây quyết định (Deision tree analysis) :làmộtphương pháp
+dùng biểu đồgiúp bạnchọn lựahành động tốtnhất trong các
+tìnhhuống ởđókếtquảtương lailàkhông chắc chắn .
+•Expected Monertary Value E(MV) làmột dạng câyquyết
+định giúp tính toán giátrịExpected monertary value (EMV )
+củamộtquyết định dựatrênxácsuất sựkiện rủirovàgiátrị
+kỳvọng tiềntệ.Tacóthídụsau:
+69THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+Cây quyết định là sơ đồ gồm 
+nhiều nút và nhánh. Có 2 
+loại nhánh:
+-Nhánh phương án
+-Nhánh biến cố
+Có 2 loại nút
+-Nút quyết định: nơi xem 
+xét các phương án
+-Nút biến cố: nơi các biến 
+cố sẽ diễn ra
+701
+Nút quyết 
+định
+Nút biến 
+cố
+Nhánh phương án
+Nhánh biến cốTHỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+Cácbước ápdụng câyquyết định
+1.Xácđịnh vấnđề.
+2.Vẽcấutrúccâyquyết định.
+3.Ghicácgiátrịxácsuất vàocácbiến cố.
+4.Ghicácgiátrịpayoffs vàomỗikếthợpgiữa
+phương ánvàbiến cố.
+5.Tính cácgiátrịEMV tạicácnúttrong câytừ
+phải sang trái.
+71CÂY QUYẾT ĐỊNH CỦA THOMPSON
+1
+2
+Nút quyết 
+định
+Nút biến cố TT thuận lợi
+TT không thuận lợi
+TT thuận lợi
+TT không thuận lợiXây nhà máy 
+nhỏBước 1:Xác định vấnđề
+Công tyThompson xem xétcácphương ánnhằm mởrộng quimô
+sảnxuất.Tình huống củacông tyđược thểhiện trong câyquyết
+định nhưsau:
+Bước 2:Vẽcây1
+2TT (0.5)
+thuận lợi
+TT (0.5)
+không thuận lợi
+Xây nm nhỏ
+$200,000
+-
+$180,000
+$100,000
+-
+$20,000
+0Bước 3: Ghi các giá trị xác suất vào các biến cố.
+Bước 4: Ghi các giá trị payoffs.
+TT (0.5)
+thuận lợi
+TT (0.5)
+không thuận lợiCÂY QUYẾT ĐỊNH CỦA THOMPSON1
+2
+$200,000
+-
+$180,000
+$100,000
+-
+$20,000
+0
+EMV 
+=$40,000
+EMV
+=$10,000Bước 5: Tính các EMVs và ra quyết định
+0
+$40,000TT (0.5)
+thuận lợi
+TT (0.5)
+không thuận lợi
+TT (0.5)
+thuận lợi
+TT (0.5)
+không thuận lợiXây nm nhỏCÂY QUYẾT ĐỊNH CỦA THOMPSONTHỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+•VD:mộtquyết định đang được thực hiện việc đầutư$120
+triệu đểxâydựng mộtnhàmáy mớihoặc đểthay vìchỉđầu
+tư$50triệu đểnâng cấpcácnhàmáy hiện có.Đốivớimỗi
+quyết định, nhu cầulàkhông chắc chắn, vàđạidiện cho
+một"nút cơhội".
+•Đối vớimỗi nhánh quyết định, tấtcảcáchiệu ứng được
+thêm vàođểxácđịnh giátrịEMV .
+•Từphép tính EMV caohơn $46triệu -cũng làEMV của
+quyết định tổng thể.Lựa chọn nàycũng đạidiện chorủiro
+thấp nhất, tránh trường hợp kếtquảxấunhất cóthểcólà
+mất$30M
+75THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+76100% 200
+60% xThí dụ
+3-77OÂng Añang caân nhaéc 2phöông aùnmua caên hoächo thueâ giaù 800 trieäu
+(ñoàng )hoaëc mua ñaát giaù 200 trieäu .Tình hình daân soáaûnh höôûng lôùn ñeán keát
+quaû cuûa quyeát ñònh .Vôùi quyeát ñònh mua caên hoäsau 2naêm ,neáu tình hình
+daân soágia taêng (60%),oâng thu ñöôïc 2tyûkhi baùn caên hoä,ngöôïc laïi,tình
+hình daân soákhoâng taêng (40%),oâng chæ thu ñöôïc 225 trieäu .Vôùi quyeát ñònh
+mua ñaát,neáu tình hình daân soágia taêng (60%),sau 1naêm ,oâng ñöùng tröôùc
+quyeát ñònh baùn ñaát hoaëc xaây bieät thöï.Neáu baùn ñaát oâng thu ñöôïc 450 tr.
+Neáu xaây bieät thöï vôùi chi phí 800 trvaøtrong 1naêm tieáp theo neáu tình hình
+daân soátieáp tuïc taêng (80%),khi baùn bieät thöï oâng thu ñöôïc 3tyû,ngöôïc laïi
+tình hình daân soákhoâng taêng (20%),khi baùn bieät thöï oâng thu ñöôïc 700
+trieäu .Vôùi quyeát ñònh mua ñaát vaøtình hình daân soákhoâng taêng (40%),sau 3
+naêm ,oâng ñöùng tröôùc quyeát ñònh baùn ñaát hoaëc xaây nhaø kho .Neáu baùn ñaát
+oâng thu ñöôïc 210 tr.Neáu xaây nhaø kho vôùi chi phí 600 trvaøtrong 1naêm
+tieáp theo neáu tình hình daân soátaêng (70%),khi baùn nhaø kho oâng thu ñöôïc
+2,3tyû,ngöôïc laïitình hình daân soákhoâng taêng (30%),khi baùn nhaø kho oâng
+thu ñöôïc 1tyû.CÂY QUYẾT ĐỊNH CỦA THOMPSON2. Cây quyết định với thông tin dự báo:Thí dụ c.ty 
+Thompson phần 2
+▪Thompson xem xétthuê nghiên cứuthịtrường trước
+khiraquyết định vớichiphí10.000.đặcđiểm của
+nghiên cứu như sau:P(Thịtrường thuận lợi/khảo
+sátthuận lợi)=0.78;P(Thịtrường không thuận lợi
+/khảo sátthuận lợi)=0.22
+▪Tương tự,P(Thịtrường thuận lợi/khảo sátkhông
+thuận lợi)=0.27;P(Thị trường không thuận lợi
+/khảo sátkhông thuận lợi)=0.73
+▪Tacùng nhau xácđịnh lạivấnđề(bước 1)vàdùng
+cácdữliệubổsung đểvẽlạicâyquyết định (bước
+2).CÂY QUYẾT ĐỊNH CỦA THOMPSON3-79
+CÂY QUYẾT ĐỊNH CỦA THOMPSONBước 3: Ghi các giá trị xác suất mới vào các biến cố.
+Bước 4: Ghi các giá trị payoffs.
+3-80
+CÂY QUYẾT ĐỊNH CỦA THOMPSON3-81Bước 5: Tính các giá trị EMV và ra quyết định.CÂY QUYẾT ĐỊNH CỦA THOMPSON•Dựa vàosốliệuquákhứcủacáccuộc nghiên cứu, ta có
+cácgiátrịxácsuấtsau:
+•P(khảo sátthuận lợi/thịtrường thuận lợi)=0.7
+•P(khảo sátkhông thuận lợi/thịtrường thuận lợi)=0.3
+•P(khảo sátthuận lợi/thịtrường không thuận lợi)=0.2
+•P(khảo sátkhông thuận lợi/thịtrường không thuận
+lợi)=0.8CÂY QUYẾT ĐỊNH CỦA THOMPSONPhân tích Bayes :
+khảo sát thuận lợi
+Tính xác suất cho kết quả khảo sát thuận lợi
+Xác suất
+Điều kiện
+Xác suất 
+sauBiến
+Cố P(KSTL|biến cố )Xác suất 
+trướcXác suất 
+giao
+TTTL 0.70 * 0.50 0.350.450.35= 0.78
+TTKTL 0.20 * 0.500.450.10
+0.10 = 0.22
+0.45 1.00Phân tích Bayes :
+khảo sát không thuận lợi
+3-84Tính xác suất cho kết quả khảo sát không thuận lợi
+Xác suất
+Điều kiện
+Xác suất 
+sauBiến
+CốP(KSKTL|biến cố )Xác suất 
+trướcXác suất 
+giao
+TTTL 0.30 * 0.50 0.150.550.15= 0.27
+TTKTL 0.80 * 0.500.550.40
+0.40 = 0.73
+0.55 1.003-85•Thompson không chắc nênchibaonhiêu choviệc khảo sátthị
+trường .Anh muốn biết cuộc khảo sátthịtrường đáng giábao
+nhiêu .Hơn nữa,anhcũng muốn biếtđộnhạy củaquyết định phụ
+thuộc vàokếtquảkhảo sátthịtrường như thếnào.Anh tanên
+làmgì?
+•Giátrịkỳvọng củathông tinmẫu (Expected Value ofSample
+Information)
+•Phân tíchđộnhạy (Sensitivity Analysis)CÂY QUYẾT ĐỊNH CỦA THOMPSONGiá trị kỳ vọng của thông tin mẫu EVSI
+Giá trị kỳ vọng của 
+nhánh có thông tin 
+dự báo (không tính 
+đến chi phí mua 
+thông tin)Giá trị kỳ vọng của 
+nhánh không mua 
+thông tin dự báo
+3-86
+EVSI =
+EVSI for Thompson = $59,200 -$40,000
+= $19,200
+Thompson có thể chi đến $19,200 cho cuộc khảo sát.Phân tích độ nhạy
+3-872,400 $104,000($2,400) ($106,400) 1) EMV(node
++ =-+ =
+p)p ( p1
+Lập đẳng thức 
+ EMV (nút 1) với  EMV khi không thực hiện khảo 
+sát, ta có
+0.36
+$104,000$37,600Tức là:$37,600 $104,000$40,000 $2,400 $104,000
+= === +
+pppTHỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+•Môphỏng -Modeling and simulation :Môphỏng
+dùng môhình củamộthệthống đểphân tíchhành
+vimong đợihayhoạt động củahệthống .
+•Phương pháp Monte Carlo môphỏng kếtquảcủa
+một môhình nhiều lầnđểcung cấpmột phân bố
+thống kêcủanhững kếtquảđãtínhtoán.
+88THỰC HIỆN PHÂN TÍCH ĐỊNH LƯỢNG RỦI RO 
+(PERFORM QUANTITATIVE RISK ANALYSIS) 
+Outputs :
+•Risk Register Updates
+–Probabilistic analysis oftheproject (Phân tích xácsuất) :
+chophép định lượng rủirodựphòng vềchiphívàthờigian.
+–Probability ofachieving cost and time objectives :xácsuất
+củaviệc đạtđược cácmục tiêucủadựántheo kếhoạch hiện
+tạicóthểđược ướctínhbằng cách sửdụng kếtquảphân tích
+định lượng rủiro.
+–Prioritized listofquantified risks :baogồm cácrủirocó
+thểảnhhưởng lớnđếnchiphídựphòng vànhất làảnhhưởng
+đếnđường tớihạn.
+–Trends inquantitative risk analysis results :Khiphân tích
+được lặpđilặplại,mộtxuhướng cóthểtrởnênrõràng dẫn
+đếnkếtluận ảnhhưởng đếnđốiphórủiro
+89KẾHOẠCH ĐỐI PHÓ RỦI RO 
+(PLAN RISK RESPONSES) 
+•Kếhoạch đốiphó rủirolàquátrình lựachọn và
+hành động đểtăng cường cáccơhộivàgiảm rủiro
+đốivớicácmục tiêucủadựán.
+•Phải phùhợpvớitầmmức độcủarủiro,chiphícó
+hiệu quảtrong việc đápứngnhững thách thức, thực
+tếtrong bốicảnh dựán,thỏa thuận vớitấtcảcác
+bêncóliênquan .
+90KẾHOẠCH ĐỐI PHÓ RỦI RO 
+(PLAN RISK RESPONSES) 
+91KẾHOẠCH ĐỐI PHÓ RỦI RO 
+(PLAN RISK RESPONSES) 
+Tools and Techniques :có4
+chiến lược chính
+•Tránh rủiro(Avoid ):Tránh
+rủirobằng cách thay đổikế
+hoạch quản lýdựánđểloại
+bỏhoàn toàn cácmối đedọa.
+Quản lýdựáncũng cóthểcô
+lậpcácmục tiêu của dựán
+khỏi tácđộng củarủirohoặc
+thay đổimục tiêu đang trong
+tìnhtrạng nguy hiểm .
+92
+KẾHOẠCH ĐỐI PHÓ RỦI RO 
+(PLAN RISK RESPONSES) 
+Tools and Techniques :có4
+chiến lược chính
+•Chuyển đổirủiro(Transfer ):
+Chuyển giao rủirolàchuyển
+mộtsốhoặc tấtcảcáctácđộng
+tiêu cực của một mối đedọa
+chomộtbênthứba.
+93
+KẾHOẠCH ĐỐI PHÓ RỦI RO 
+(PLAN RISK RESPONSES) 
+•Làm nhẹ rủiro(Mitigate ):
+Giảm thiểu khả năng vàtác
+động củarủirotrong giới hạn
+ngưỡng chấp nhận được .
+•Hành động sớm đểgiảm khả
+năng vàtácđộng củamột rủi
+roxảyratrong dựánthường
+cóhiệu quảhơnlàcốgắng để
+sửachữa những thiệt hạisau
+khirủirođãxảyra.
+94
+KẾHOẠCH ĐỐI PHÓ RỦI RO 
+(PLAN RISK RESPONSES) 
+•Chấp nhận rủi ro
+(Accept ):Chấp nhận rủi
+rovìítkhicóthểđểloại
+bỏtấtcảcácmối đedọa
+từmột dựán.Chiến lược
+nàychỉrarằng nhóm dự
+ánđãquyết định không
+thay đổikếhoạch quản lý
+dựánđểđốiphó vớirủi
+ro,hoặc làkhông thểxác
+định bấtkỳchiến lược đối
+phókhác phùhợp
+95
+KẾHOẠCH ĐỐI PHÓ RỦI RO 
+(PLAN RISK RESPONSES) 
+•Các bướcgiảiquyết rủiro
+–Bước 1: Thiết lậpnhững phương
+ánlàmgiảm mức độcủarủiro. 
+–Bước 2:Phát triển kếhoạch thực
+hiện mộtphương ántrong sốnhững
+phương ánxácđịnh ở bước 1. 
+–Bước 3: Đánh giálạirủirođóvà
+cácrủirokhác saukhiphương án
+được thực hiện. Sau đólạilặplại
+bước 1 vớitậprủirovớimức độ
+mới
+96
+GIÁM SÁT VÀ KIỂM SOÁT RỦI RO 
+(MONITOR AND CONTROL RISKS) 
+•Giám sátvàkiểm soát rủirolàquátrình thực hiện
+cáckếhoạch đốiphó rủiro,theo dõicácrủiro
+được xácđịnh, giám sátrủirocònsótlại,xácđịnh
+những rủiromới, vàđánh giáảnhhưởng củarủiro
+trong suốt quátrình thực hiện dựán.
+•Giám sátvàkiểm soát rủiroliênquan đếnviệc lựa
+chọn chiến lược, thực hiện mộtkếhoạch dựphòng,
+hành động khắc phục, vàsửađổikếhoạch quản lý
+dựán.
+97GIÁM SÁT VÀ KIỂM SOÁT RỦI RO 
+(MONITOR AND CONTROL RISKS) 
+Tools andTechniques :
+•Risk Reassessment :đánh giálạirủirocầnphải được
+thường xuyên theo lịchtrình .Sốlầnvàchitiếtcủasựlặp
+lạiđóphụthuộc vàodựántiếntriển như thếnàosovới
+cácmục tiêucủanó.
+•Risk Audits :kiểm trarủirovàghinhận hiệu quảcủa
+việc đốiphóvớicácrủirovàcácnguyên nhân củanó.
+•Variance and Trend Analysis :phân tíchphương saiđể
+sosánh kếtquảdựkiến kếtquảthực tế.
+•Đốivớimục đích theo dõivàkiểm soát cácsựkiện rủiro,
+phân tíchxuhướng bằng cách sửdụng thông tinhiệu suất.
+98GIÁM SÁT VÀ KIỂM SOÁT RỦI RO 
+(MONITOR AND CONTROL RISKS) 
+Technical Performance Measurement
+•Đòi hỏiđịnh nghĩa của cácbiện pháp định lượng
+khách quan vềhiệu suất kỹthuật màcóthểđược sử
+dụng đểsosánh kếtquảthực tếsovớimục tiêu
+•Reserve Analysis
+•Phân tíchdựtrữnhằm xem xéttácđộng củarủirovề
+ngân sách dựtrữ.
+•Status Meetings :
+•Quản lýrủirodựánphải làmộtchương trình nghị sự
+tạicáccuộc họptrạng tháiđịnh kỳ.Lượng thời gian
+tùythuộc vàocácrủirođãđược xácđịnh ưutiên.
+99GIÁM SÁT VÀ KIỂM SOÁT RỦI RO 
+(MONITOR AND CONTROL RISKS) 
+Technical Performance Measurement
+•Sửdụng Cây quyết định
+•Trong mộtsốtrường hợpphức tạp,thường rấtkhóxácđịnh
+rủironàonênđặtưutiêncaođểkiểm soát, hoặc nênchọn
+chiến lược kiểm soát nàophùhợpnhất nênngười tathường
+sửdụng kỹthuật hỗtrợraquyết định thông dụng trong
+quản lýlàCây quyết định đểtínhtoán giátrịđạtđược hoặc
+thiệt hạixảy rakhithực hiện một hành động nào đó.
+100GIÁM SÁT VÀ KIỂM SOÁT RỦI RO 
+(MONITOR AND CONTROL RISKS) 
+Outputs :
+•Risk Register Updates :
+•Kếtquảcủađánh giálạirủiro,kiểm toán rủiro,vàđánh giá
+rủirođịnh kỳ.
+•Kếtquảrủirothực tếcủadựánvànhững hoạt động đối
+phórủiro.
+•Change Requests :
+•Đềnghị những hoạt động khắc phục
+•Đềnghị những hoạt động ngăn chặn
+•Project Management Plan Updates
+•Project Document Updates
+101CÂU HỎI
+1.Khiđềcậpđếnkếhoạch quản lýrủirocầnphải xétđến
+cácyếutốnào?
+2.Cácnguồn rủirophổbiến trong cácdựánCNTT .
+3.Sựkhác biệt giữa kỹthuật “brainstorm” vàDelphi trong
+việc xácđịnh cácrủiro.Ưuđiểm vànhược điểm củamỗi
+kỹthuật .
+4.Trình bàycách sửdụng câyquyết định (decision tree) và
+phương pháp Monte Carlo đốivớicácrủirođịnh lượng .
+Cho vídụvềcách sửdụng mỗikỹthuật chodựánCNTT .
+5.Liệt kêcáccông cụvàkỹthuật theo dõivàkiểm soát rủi
+ro.
+6.Cách sửdụng Microsoft Project vàExcel đểhỗtrợquản lý
+rủirodựán.
+102BÀI TẬP
+1.Tìm kiếm trên Internet cácphần mềm vềquản trịrủiro.
+Ưuđiểm vànhược điểm khisửdụng những phần mềm
+này.Viết báocáo2trang vềítnhất 3phần mềm loạinày.
+2.Tìm vídụvềcông tycórủirocaotrong mộtdựánCNTT
+vàđãthành công, vàmộtcông tycórủirocaovàthấtbại.
+Tổng kếtvàrútrakếtluận vềhaidựánnày.
+103BÀI TẬP
+3.Một công tycó4dựánđểtham giadựthầu.Thông tinvề
+mỗidựánđược trình bàytrong bảng dưới đây.Vẽbiểu đồ
+vàtínhgiátrịEMV chomỗidựán.Viết vàitrang môtảdự
+ánnàobạnsẽtham giathầu.
+104
