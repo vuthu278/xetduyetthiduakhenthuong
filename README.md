@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hệ Thống Xét Duyệt Thi Đua Khen Thưởng
 
 ## Mô tả
@@ -68,3 +69,6 @@ Mọi đóng góp đều được chào đón. Vui lòng tạo issue hoặc pull
 
 ## Giấy phép
 Dự án này được phát hành dưới giấy phép MIT.
+=======
+# xetduyetthiduakhenthuong
+>>>>>>> 154c4b8af715b70c86a03ece37c5da5d7091716e
