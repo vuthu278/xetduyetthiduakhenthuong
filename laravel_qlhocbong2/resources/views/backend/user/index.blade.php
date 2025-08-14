@@ -181,9 +181,9 @@
                 <td>{{ $item->type == 1 ? "Sinh viên" : ($item->type == 2 ? "Giảng viên" : "Nhân viên")}}</td>
                 <td>
                     <div class="action-btns">
-                        <a href="{{ route('backend.user.update', $item->id) }}" class="btn btn-primary" title="Cập nhật">
+                        <a href="{{ route('backend.user.update', $item->id) }}" class="btn btn-primary" title="Update">
                             <i class="fa fa-pencil-square-o"></i>
-                            <span>Cập nhật</span>
+                            <span>update</span>
                         </a>
                         <a href="{{ route('backend.user.delete', $item->id) }}"
                             class="btn btn-danger"

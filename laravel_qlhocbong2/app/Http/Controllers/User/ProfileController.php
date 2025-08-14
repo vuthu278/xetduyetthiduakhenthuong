@@ -4,6 +4,7 @@ namespace App\Http\Controllers\User;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\RequestChangePassword;
+use App\Http\Requests\RequestFirstPassword;
 use App\Models\User;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
@@ -53,21 +54,15 @@ class ProfileController extends Controller
         return view('user.password', compact('user'));
     }
 
-    public function updatePassword(Request $request)
+    public function updatePassword(RequestFirstPassword $request)
     {
-        $request->validate([
-            'password' => 'required|min:8|confirmed',
-        ]);
-
-
-
         $id = get_data_user('web');
         User::find($id)->update([
             'password' => bcrypt($request->password),
             'updated_at' => Carbon::now(),
         ]);
 
-        return back()->with('success', 'Mật khẩu đã được cập nhật thành công.');
+        return redirect()->route('user.index')->with('success', 'Mật khẩu đã được cập nhật thành công.');
     }
 
     public function changePassword()

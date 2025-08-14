@@ -167,7 +167,7 @@
         <div class="container mx-auto px-4">
             <h2 class="text-3xl font-bold text-center mb-12 text-gray-800">Truy cập nhanh hệ thống</h2>
             
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
                 <!-- Card 1 -->
                 <a href="{{ asset('user')}}" class="card-hover rounded-2xl p-8 text-center overflow-hidden">
                     <div class="w-20 h-20 mx-auto mb-6 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 transform transition-transform hover:scale-110">

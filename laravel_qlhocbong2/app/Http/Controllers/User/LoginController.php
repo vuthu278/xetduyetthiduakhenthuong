@@ -19,9 +19,6 @@ class LoginController extends Controller
             'code' => $request->code,
             'password' => $request->password
         ])) {
-            if ($request->password === '123456') {
-                return redirect()->route('user.password');
-            }
             return redirect()->route('user.index');
         }
 

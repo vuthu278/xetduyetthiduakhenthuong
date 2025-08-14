@@ -4,7 +4,6 @@ namespace App\Http;
 
 use App\Http\Middleware\CheckLoginAdmin;
 use App\Http\Middleware\CheckLoginUser;
-use App\Http\Middleware\CheckPassUser;
 use App\Http\Middleware\CheckRuleAdmin;
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
@@ -70,6 +69,5 @@ class Kernel extends HttpKernel
         'checkLoginAdmin' => CheckLoginAdmin::class,
         'CheckLoginUser' => CheckLoginUser::class,
         'checkRuleUser' => CheckRuleAdmin::class,
-        'CheckPassUser' => CheckPassUser::class,
     ];
 }

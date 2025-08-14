@@ -23,9 +23,6 @@ class CheckPassUser
     public function handle($request, \Closure $next)
     {
         if (get_data_user('web'))  {
-            if (Hash::check('123456', get_data_user('web','password'))) {
-                return  redirect()->route('user.password');
-            }
             return $next($request);
         }
 

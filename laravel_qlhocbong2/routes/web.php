@@ -31,14 +31,14 @@ Route::group(['namespace' => 'User'], function(){
 
 
 Route::group(['namespace' => 'User' , 'prefix' => 'user', 'middleware' => 'CheckLoginUser'], function (){
-    Route::get('','ProfileController@index')->name('user.index')->middleware('CheckPassUser');
-    Route::post('','ProfileController@update')->middleware('CheckPassUser');
+    Route::get('','ProfileController@index')->name('user.index');
+    Route::post('','ProfileController@update');
 
     Route::get('password','ProfileController@password')->name('user.password');
     Route::post('password','ProfileController@updatePassword')->name('user.update_password');
 
-    Route::get('update-password','ProfileController@changePassword')->name('user.change_password')->middleware('CheckPassUser');
-    Route::post('update-password','ProfileController@updateChangePassword')->middleware('CheckPassUser');
+    Route::get('update-password','ProfileController@changePassword')->name('user.change_password');
+    Route::post('update-password','ProfileController@updateChangePassword');
 
     Route::group(['prefix' => 'appellation-register'], function (){
         Route::get('','AppellationRegisterController@index')->name('user.appellation_register.index');
