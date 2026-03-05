@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2026-02-28T00:00:00.000Z" agent="Cursor" version="20.6.3" type="device">
+  <diagram id="erd-logic" name="ERD">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dept" value="DEPARTMENTS&lt;br&gt;id (PK)&lt;br&gt;d_name&lt;br&gt;d_code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="branch" value="BRANCHS&lt;br&gt;id (PK)&lt;br&gt;b_name&lt;br&gt;department_id (FK)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="class" value="CLASS&lt;br&gt;id (PK)&lt;br&gt;c_name&lt;br&gt;branch_id (FK)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="users" value="USERS&lt;br&gt;id (PK)&lt;br&gt;name&lt;br&gt;email&lt;br&gt;code&lt;br&gt;address&lt;br&gt;phone&lt;br&gt;department_id (FK)&lt;br&gt;type&lt;br&gt;avatar&lt;br&gt;password&lt;br&gt;timestamps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="admins" value="ADMINS&lt;br&gt;id (PK)&lt;br&gt;name&lt;br&gt;email&lt;br&gt;password&lt;br&gt;phone&lt;br&gt;address&lt;br&gt;level&lt;br&gt;status&lt;br&gt;avatar&lt;br&gt;timestamps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="appellations" value="APPELLATIONS&lt;br&gt;id (PK)&lt;br&gt;name&lt;br&gt;dot_thi_dua&lt;br&gt;rule&lt;br&gt;time_start&lt;br&gt;time_stop&lt;br&gt;avatar&lt;br&gt;type&lt;br&gt;note&lt;br&gt;timestamps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="app_register" value="APPELLATIONS_REGISTER&lt;br&gt;id (PK)&lt;br&gt;user_id (FK)&lt;br&gt;appellation_id (FK)&lt;br&gt;status&lt;br&gt;name&lt;br&gt;email&lt;br&gt;certification&lt;br&gt;phone&lt;br&gt;code&lt;br&gt;file&lt;br&gt;note&lt;br&gt;time_process&lt;br&gt;is_suggest&lt;br&gt;timestamps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="940" y="180" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="semesters" value="SEMESTERS&lt;br&gt;id (PK)&lt;br&gt;s_name&lt;br&gt;s_start&lt;br&gt;s_stop&lt;br&gt;s_status&lt;br&gt;timestamps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="type_scholarship" value="TYPE_SCHOLARSHIP&lt;br&gt;id (PK)&lt;br&gt;ts_name&lt;br&gt;timestamps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="chat_histories" value="CHAT_HISTORIES&lt;br&gt;id (PK)&lt;br&gt;session_id&lt;br&gt;question&lt;br&gt;answer&lt;br&gt;timestamps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_dept_branch" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="dept" target="branch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_branch_class" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="branch" target="class">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_dept_users" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="dept" target="users">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_users_register" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="users" target="app_register">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_appellations_register" style="endArrow=block;html=1;rounded=0;" edge="1" parent="1" source="appellations" target="app_register">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

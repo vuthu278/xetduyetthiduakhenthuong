@@ -13,7 +13,7 @@ class SemesterController extends Controller
 {
     public function index()
     {
-        $semesters =  Semester::orderByDesc('id')
+        $semesters =  Semester::orderByDesc('_id')
             ->paginate(20);
 
         $viewData = [

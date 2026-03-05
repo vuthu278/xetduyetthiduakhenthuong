@@ -14,7 +14,7 @@
                     <div class="avatar-wrapper mb-4">
 
                         <img
-                            src="{{ $user->avatar ? pare_url_file($user->avatar) : asset('images/default-avatar.png') }}"
+                            src="{{ $user->avatar ? asset(pare_url_file($user->avatar)) : asset('images/default-avatar.svg') }}"
                             class="profile-avatar"
                             alt="Ảnh đại diện">
                         <div class="avatar-overlay">

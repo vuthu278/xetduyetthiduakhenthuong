@@ -58,8 +58,8 @@
         <div class="mb-3 col-sm-6">
             <label for="exampleInputEmail1"> Hình ảnh </label>
             <input type="file" class="filepond form-control" name="avatar" >
-            @if (isset($appellation->avatar))
-            <img src="{{ asset($appellation->avatar) }}" style="width: 200px;height: auto;margin-top: 20px;" alt="">
+            @if (!empty($appellation->avatar))
+            <img src="{{ asset(pare_url_file($appellation->avatar)) }}" style="width: 200px;height: auto;margin-top: 20px;" alt="">
             @endif
         </div>
     </div>
@@ -67,8 +67,8 @@
         <div class="mb-3 col-sm-6">
             <label for="exampleInputEmail1"> Quyết định </label>
             <input type="file" class="filepond form-control" name="rule" >
-            @if (isset($appellation->rule))
-                <a href="{{ asset($appellation->rule) }}" download="">{{ $appellation->rule }}</a>
+            @if (!empty($appellation->rule))
+                <a href="{{ asset(pare_url_file($appellation->rule, '')) }}" download="">{{ $appellation->rule }}</a>
             @endif
         </div>
     </div>

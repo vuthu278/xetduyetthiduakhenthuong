@@ -223,6 +223,13 @@
             background: var(--secondary-color);
         }
 
+        /* Thanh cuộn cho danh sách bảng */
+        .table-responsive {
+            max-height: 70vh;
+            overflow-y: auto;
+            overflow-x: auto;
+        }
+
         .navbar-toggler {
             border: none;
             padding: 0.25rem;

@@ -28,7 +28,7 @@ class AppellationController extends Controller
             $query->whereDate('time_stop', $request->time_stop);
         }
 
-        $appellations = $query->orderByDesc('id')->paginate(20);
+        $appellations = $query->orderByDesc('_id')->paginate(20);
 
         return view('user.appellation.index', compact('appellations'));
     }

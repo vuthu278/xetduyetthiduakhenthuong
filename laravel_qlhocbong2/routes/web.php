@@ -52,6 +52,20 @@ Route::group(['namespace' => 'User' , 'prefix' => 'user', 'middleware' => 'Check
     Route::group(['prefix' => 'appellation'], function (){
         Route::get('','AppellationController@index')->name('user.appellation.index');
     });
+
+    Route::group(['prefix' => 'activity'], function (){
+        Route::get('','ActivityController@index')->name('user.activity.index');
+        Route::post('{id}/register','ActivityController@register')->name('user.activity.register');
+        Route::post('{id}/cancel','ActivityController@cancel')->name('user.activity.cancel');
+    });
+
+    Route::get('scan','ScanController@index')->name('user.scan');
+    Route::post('scan','ScanController@submit')->name('user.scan.submit');
+
+    Route::group(['prefix' => 'drl'], function (){
+        Route::get('','DrlController@index')->name('user.drl.index');
+        Route::get('{id}','DrlController@show')->name('user.drl.show');
+    });
 });
 
 // Chatbot Routes

@@ -22,7 +22,7 @@ class AppellationRegisterController extends Controller
         $appellationsRegister = AppellationRegister::with(
             'appellation:id,name,avatar',
             'user:id,name,department_id'
-        )->whereRaw(1);
+        );
 
         // Lọc theo trạng thái
         if (!is_null($status) && $status !== '') {
@@ -61,7 +61,7 @@ class AppellationRegisterController extends Controller
         }
 
         // Lấy dữ liệu cuối cùng
-        $appellationsRegister = $appellationsRegister->orderByDesc('id')->paginate(20);
+        $appellationsRegister = $appellationsRegister->orderByDesc('_id')->paginate(20);
         $appellations = Appellation::all();
 
         $viewData = [
@@ -128,7 +128,7 @@ class AppellationRegisterController extends Controller
     public function update(Request $request, $id)
     {
 
-        $appellationsRegister = AppellationRegister::with('appellation:id,name,avatar,semesters_name ', 'user:id,name,department_id')->whereRaw(1);
+        $appellationsRegister = AppellationRegister::with('appellation:id,name,avatar,semesters_name ', 'user:id,name,department_id');
         $data = $request->except('_token', 'file', 'certification');
 
         if ($request->file) {

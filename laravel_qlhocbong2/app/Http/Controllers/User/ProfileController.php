@@ -23,7 +23,11 @@ class ProfileController extends Controller
     public function index()
     {
         $user = User::find(get_data_user('web'));
-        $user->load('department'); // Ép nạp quan hệ
+        if (!$user) {
+            \Auth::guard('web')->logout();
+            return redirect()->route('get_user.login')->with('error', 'Phiên đăng nhập không hợp lệ. Vui lòng đăng nhập lại.');
+        }
+        $user->load('department');
 
         return view('user.profile', compact('user'));
     }

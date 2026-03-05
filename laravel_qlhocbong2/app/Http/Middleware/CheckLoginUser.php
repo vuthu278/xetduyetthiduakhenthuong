@@ -26,11 +26,14 @@ class CheckLoginUser
         if (!get_data_user('web')) {
             return redirect()->route('get_user.login');
         }
-        
-        // Share user data with all views
+
         $user = \App\Models\User::find(get_data_user('web'));
+        if (!$user) {
+            \Auth::guard('web')->logout();
+            return redirect()->route('get_user.login')->with('error', 'Phiên đăng nhập không hợp lệ. Vui lòng đăng nhập lại.');
+        }
         \View::share('user', $user);
-        
+
         return $next($request);
     }
 }

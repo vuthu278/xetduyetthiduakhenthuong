@@ -3,13 +3,16 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;
+use Jenssegers\Mongodb\Eloquent\Model;
 
 class AppellationRegister extends Model
 {
     use HasFactory;
+    protected $connection = 'mongodb';
     protected $table = 'appellations_register';
+    protected $primaryKey = '_id';
+    protected $keyType = 'int';
     protected $guarded = [''];
 
     const STATUS_DEFAULT = 1;
@@ -53,11 +56,11 @@ class AppellationRegister extends Model
 
     public function appellation()
     {
-        return $this->belongsTo(Appellation::class,'appellation_id');
+        return $this->belongsTo(Appellation::class, 'appellation_id', '_id');
     }
 
     public function user()
     {
-        return $this->belongsTo(User::class,'user_id');
+        return $this->belongsTo(User::class, 'user_id', '_id');
     }
 }

@@ -3,11 +3,14 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model;
 
 class Semester extends Model
 {
     use HasFactory;
     protected $guarded = [''];
+    protected $connection = 'mongodb';
     protected $table = 'semesters';
+    protected $primaryKey = '_id';
+    protected $keyType = 'int';
 }

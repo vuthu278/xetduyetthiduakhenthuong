@@ -56,6 +56,21 @@ return [
         'route' => 'backend.appellation_register.index',
         'segment' => ['appellation-register']
     ],
+    [
+        'name' => 'Hoạt động rèn luyện',
+        'route' => 'backend.activity.index',
+        'segment' => ['activity']
+    ],
+    [
+        'name' => 'Điểm danh hoạt động',
+        'route' => 'backend.activity_attendance.index',
+        'segment' => ['activity-attendance']
+    ],
+    [
+        'name' => 'Chốt điểm DRL',
+        'route' => 'backend.drl_snapshot.index',
+        'segment' => ['drl-snapshot']
+    ],
    
     [
         'name' => 'Thống kê',

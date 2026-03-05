@@ -35,7 +35,7 @@ class UserController extends Controller
         if ($request->code)
             $users->where('code','like','%'.$request->code.'%');
 
-        $users =  $users->orderByDesc('id')
+        $users =  $users->orderByDesc('_id')
             ->paginate(20);
 
         $departments = Department::all();

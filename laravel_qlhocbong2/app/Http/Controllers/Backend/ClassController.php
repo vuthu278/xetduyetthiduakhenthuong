@@ -14,7 +14,7 @@ class ClassController extends Controller
     public function index()
     {
         $class =  ClassModel::with('branch:id,b_name')
-            ->orderByDesc('id')
+            ->orderByDesc('_id')
             ->paginate(20);
 
         $viewData = [

@@ -15,7 +15,7 @@ class AppellationController extends Controller
 {
     public function index(Request $request)
     {
-        $appellations =  Appellation::whereRaw(1);
+        $appellations = Appellation::query();
         // $appellations = Appellation::with('semesters:id,s_name');
 
         // if ($request->semesters_id)
@@ -47,7 +47,7 @@ class AppellationController extends Controller
 
 
 
-        $appellations  = $appellations->orderByDesc('id')->paginate(20);
+        $appellations  = $appellations->orderByDesc('_id')->paginate(20);
         // $semesters = Semester::all();
 
         $viewData = [

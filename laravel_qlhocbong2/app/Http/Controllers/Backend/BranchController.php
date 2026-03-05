@@ -16,7 +16,7 @@ class BranchController extends Controller
     public function index()
     {
         $branchs =  Branch::with('department:id,d_name')
-        ->orderByDesc('id')
+        ->orderByDesc('_id')
             ->paginate(20);
 
         $viewData = [

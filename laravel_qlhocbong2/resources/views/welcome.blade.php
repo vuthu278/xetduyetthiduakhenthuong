@@ -194,15 +194,15 @@
                     </span>
                 </a>
                 
-                <!-- Card 3 -->
-                <a href="https://doantn.iuh.edu.vn/" target="_blank" class="card-hover rounded-2xl p-8 text-center overflow-hidden">
-                    <div class="w-20 h-20 mx-auto mb-6 rounded-full bg-red-100 flex items-center justify-center text-red-600 transform transition-transform hover:scale-110">
-                        <i class="fas fa-users text-3xl"></i>
+                <!-- Card 3 - Điểm rèn luyện -->
+                <a href="{{ url('user') }}" class="card-hover rounded-2xl p-8 text-center overflow-hidden">
+                    <div class="w-20 h-20 mx-auto mb-6 rounded-full bg-amber-100 flex items-center justify-center text-amber-600 transform transition-transform hover:scale-110">
+                        <i class="fas fa-qrcode text-3xl"></i>
                     </div>
                     
-                    <h3 class="text-xl font-semibold mb-3 text-gray-800">Đoàn Thanh niên</h3>
-                    <p class="text-gray-600 mb-4">Trang thông tin chính thức của Đoàn Thanh niên IUH</p>
-                    <span class="text-red-600 font-medium inline-flex items-center">
+                    <h3 class="text-xl font-semibold mb-3 text-gray-800">Điểm rèn luyện</h3>
+                    <p class="text-gray-600 mb-4">Đăng nhập để xem điểm DRL, quét QR điểm danh hoạt động và đăng ký tham gia</p>
+                    <span class="text-amber-600 font-medium inline-flex items-center">
                         Truy cập <i class="fas fa-chevron-right ml-2"></i>
                     </span>
                 </a>

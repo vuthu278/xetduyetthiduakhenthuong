@@ -403,6 +403,13 @@
             background: #224abe;
         }
 
+        /* Thanh cuộn cho danh sách bảng */
+        .table-responsive {
+            max-height: 70vh;
+            overflow-y: auto;
+            overflow-x: auto;
+        }
+
         /* When sidebar is hidden */
         #wrapper.sidebar-hidden #sidebar-wrapper {
             margin-left: calc(-1 * var(--sidebar-width));
@@ -457,7 +464,7 @@
                         <div class="user-profile">
                             <img 
                             class="user-avatar" 
-                            src="{{ $user->avatar ? pare_url_file($user->avatar) : asset('images/default-avatar.png') }}" 
+                            src="{{ $user->avatar ? asset(pare_url_file($user->avatar)) : asset('images/default-avatar.svg') }}" 
                             alt="Ảnh đại diện">
                             <div class="user-info">
                                 <span class="user-name">{{ get_data_user('web','name') }}</span>

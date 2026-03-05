@@ -1,5 +1,7 @@
-<form method="POST" action="" autocomplete="off">
+@if(empty($formFieldsOnly))
+<form method="POST" action="{{ $formAction ?? url()->current() }}" autocomplete="off">
     @csrf
+@endif
     <div class="row">
         <div class="mb-3 col-sm-6">
             <label for="exampleInputEmail1" class="form-label">Họ tên</label>
@@ -60,5 +62,7 @@
             @endif
         </div>
     </div>
+    @if(empty($formFieldsOnly))
     <button type="submit" class="btn btn-primary">Lưu dữ liệu <i class="fa fa-save"></i></button>
 </form>
+    @endif

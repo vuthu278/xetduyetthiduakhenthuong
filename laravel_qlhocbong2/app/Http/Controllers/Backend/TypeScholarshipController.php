@@ -12,7 +12,7 @@ class TypeScholarshipController extends Controller
 {
     public function index()
     {
-        $typeScholarship =  TypeScholarship::orderByDesc('id')
+        $typeScholarship =  TypeScholarship::orderByDesc('_id')
             ->paginate(20);
 
         $viewData = [

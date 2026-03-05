@@ -57,6 +57,29 @@ Route::group(['namespace' => 'Backend' , 'prefix' => 'admin', 'middleware' => 'c
         Route::get('delete/{id}','AppellationRegisterController@delete')->name('backend.appellation_register.delete')->middleware('checkRuleUser');
     });
 
+    Route::group(['prefix' => 'activity'], function (){
+        Route::get('','ActivityController@index')->name('backend.activity.index')->middleware('checkRuleUser');
+        Route::get('create','ActivityController@create')->name('backend.activity.create')->middleware('checkRuleUser');
+        Route::post('create','ActivityController@store')->name('backend.activity.create')->middleware('checkRuleUser');
+        Route::get('update/{id}','ActivityController@edit')->name('backend.activity.update')->middleware('checkRuleUser');
+        Route::post('update/{id}','ActivityController@update')->name('backend.activity.update')->middleware('checkRuleUser');
+        Route::get('delete/{id}','ActivityController@delete')->name('backend.activity.delete')->middleware('checkRuleUser');
+        Route::get('{id}/qr-codes','ActivityController@qrCodes')->name('backend.activity.qr_codes')->middleware('checkRuleUser');
+        Route::post('{id}/generate-qr','ActivityController@generateQr')->name('backend.activity.generate_qr')->middleware('checkRuleUser');
+        Route::get('{id}/qr/{qrId}','ActivityController@showQr')->name('backend.activity.show_qr')->middleware('checkRuleUser');
+    });
+
+    Route::group(['prefix' => 'activity-attendance'], function (){
+        Route::get('','ActivityAttendanceController@index')->name('backend.activity_attendance.index')->middleware('checkRuleUser');
+    });
+
+    Route::group(['prefix' => 'drl-snapshot'], function (){
+        Route::get('','DrlSnapshotController@index')->name('backend.drl_snapshot.index')->middleware('checkRuleUser');
+        Route::get('create','DrlSnapshotController@create')->name('backend.drl_snapshot.create')->middleware('checkRuleUser');
+        Route::post('create','DrlSnapshotController@store')->name('backend.drl_snapshot.create')->middleware('checkRuleUser');
+        Route::get('{id}','DrlSnapshotController@show')->name('backend.drl_snapshot.show')->middleware('checkRuleUser');
+    });
+
     Route::group(['prefix' => 'account'], function (){
         Route::get('','AdminAccountController@index')->name('backend.account.index')->middleware('checkRuleUser');
         Route::get('create','AdminAccountController@create')->name('backend.account.create')->middleware('checkRuleUser');

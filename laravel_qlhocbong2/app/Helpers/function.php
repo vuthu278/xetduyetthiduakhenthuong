@@ -38,7 +38,40 @@ function routeRuleAdm()
         'backend.appellation_register.update',
         'backend.appellation_register.delete',
         'backend.appellation.index',
+        'backend.activity.index',
+        'backend.activity.create',
+        'backend.activity.update',
+        'backend.activity.delete',
+        'backend.activity.qr_codes',
+        'backend.activity.generate_qr',
+        'backend.activity.show_qr',
+        'backend.activity_attendance.index',
+        'backend.drl_snapshot.index',
+        'backend.drl_snapshot.create',
+        'backend.drl_snapshot.show',
     ];
+}
+
+if (!function_exists('mongodb_id_string')) {
+    /** Chuẩn hóa MongoDB _id (array/object/scalar) thành string cho route/URL. Luôn trả về string. */
+    function mongodb_id_string($id)
+    {
+        if ($id === null || $id === '') {
+            return '';
+        }
+        if (is_array($id)) {
+            $v = $id['$oid'] ?? $id['_id'] ?? '';
+            return is_array($v) ? '' : (string) $v;
+        }
+        if (is_object($id)) {
+            if (method_exists($id, '__toString')) {
+                return (string) $id->__toString();
+            }
+            $v = $id->{'$oid'} ?? $id->oid ?? $id->id ?? '';
+            return is_array($v) ? '' : (string) $v;
+        }
+        return (string) $id;
+    }
 }
 
 if( !function_exists('get_data_user'))
@@ -54,7 +87,7 @@ if (!function_exists('pare_url_file')) {
     function pare_url_file($file, $folder = '')
     {
         if (!$file) {
-            return '/images/no-image.jpg';
+            return '/images/no-image.svg';
         }
 
         // Nếu là đường dẫn HTTP hoặc HTTPS thì trả thẳng về
@@ -62,16 +95,19 @@ if (!function_exists('pare_url_file')) {
             return $file;
         }
 
-        // Nếu không, xử lý file trong uploads
+        // Nếu không, xử lý file trong uploads (format: 2025-02-28__filename.ext)
         $explode = explode('__', $file);
         if (isset($explode[0])) {
-            $time = str_replace('_', '/', $explode[0]);
+            $time = $explode[0];
             $path = '/uploads' . ($folder ? '/' . $folder : '') . '/' . date('Y/m/d', strtotime($time)) . '/' . $file;
             return $path;
         }
 
-        // Nếu file không hợp lệ
-        return '/images/no-image.jpg';
+        // File không đúng format upload (thử path trực tiếp)
+        if (strpos($file, 'uploads/') === 0 || strpos($file, '/uploads/') === 0) {
+            return $file[0] === '/' ? $file : '/' . $file;
+        }
+        return '/images/no-image.svg';
     }
 }
 

@@ -2,10 +2,13 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model;
 
 class ChatHistory extends Model
 {
+    protected $connection = 'mongodb';
+    protected $collection = 'chat_histories';
+
     protected $fillable = [
         'session_id',
         'question',

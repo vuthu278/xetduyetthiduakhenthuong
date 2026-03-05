@@ -101,13 +101,13 @@
                             <td>{{ date('d/m/Y', strtotime($item->created_at)) }}</td>
                             <td>
                                 <div class="d-flex justify-content-center gap-2">
-                                    <a href="{{ route('backend.account.update', $item->id) }}"
+                                    <a href="{{ route('backend.account.update', mongodb_id_string($item->_id ?? $item->id)) }}"
                                         class="btn btn-sm btn-outline-primary"
                                         title="Cập nhật">
                                         <i class="fas fa-edit"></i>
                                     </a>
                                     @if ($item->level != 0)
-                                    <a href="{{ route('backend.account.delete', $item->id) }}"
+                                    <a href="{{ route('backend.account.delete', mongodb_id_string($item->_id ?? $item->id)) }}"
                                         class="btn btn-sm btn-outline-danger"
                                         onclick="return confirm('Bạn có chắc chắn muốn xóa quản trị viên này không?')"
                                         title="Xóa">

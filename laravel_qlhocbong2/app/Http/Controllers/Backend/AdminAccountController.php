@@ -40,7 +40,7 @@ class AdminAccountController extends Controller
             }
         }
 
-        $admins = $admins->orderByDesc('id')->paginate(20);
+        $admins = $admins->orderByDesc('_id')->paginate(20);
 
         return view('backend.account.index', compact('admins'));
     }
@@ -63,24 +63,26 @@ class AdminAccountController extends Controller
 
     public function edit($id)
     {
-        $admin       = Admin::find($id);
+        $admin = Admin::find((int) $id);
+        if (!$admin) {
+            return redirect()->route('backend.account.index')->with('error', 'Không tìm thấy quản trị viên.');
+        }
         $departments = Department::all();
-        $viewData    = [
-            'admin'       => $admin,
-            'departments' => $departments
-        ];
-
-        return view('backend.account.update', $viewData);
+        return view('backend.account.update', compact('admin', 'departments'));
     }
 
     public function update(AdminAccountRequest $request, $id)
     {
+        $admin = Admin::find((int) $id);
+        if (!$admin) {
+            return redirect()->route('backend.account.index')->with('error', 'Không tìm thấy quản trị viên.');
+        }
         $data = $request->except('_token', 'password');
-        if ($request->password)
+        if ($request->password) {
             $data['password'] = bcrypt($request->password);
-
+        }
         $data['updated_at'] = Carbon::now();
-        Admin::find($id)->update($data);
+        $admin->update($data);
 
         return redirect()->route('backend.account.index')->with('success', 'Cập nhật thành công');
     }

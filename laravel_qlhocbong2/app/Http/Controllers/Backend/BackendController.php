@@ -23,50 +23,32 @@ class BackendController extends Controller
         $level = get_data_user('admins', 'level'); // 0 = admin cấp trường, != 0 = đơn vị
         $department_id = get_data_user('admins', 'department_id');
 
-        // Thống kê chi tiết trạng thái đăng ký
-        $register_status = AppellationRegister::when($level != 0, function ($query) use ($level) {
+        // Thống kê chi tiết trạng thái đăng ký (MongoDB-compatible)
+        $registerStatusQuery = AppellationRegister::when($level != 0, function ($query) use ($level) {
             $query->whereHas('user', function ($q) use ($level) {
                 $q->where('department_id', $level);
             });
-        })
-            ->select('status', \DB::raw('count(*) as total'))
-            ->groupBy('status')
-            ->get()
-            ->mapWithKeys(function ($item) {
-                $statusText = '';
-                switch ($item->status) {
-                    case 0:
-                        $statusText = 'Chờ xét duyệt';
-                        break;
-                    case 1:
-                        $statusText = 'Đã xem';
-                        break;
-                    case 2:
-                        $statusText = 'Được đề nghị xét duyệt';
-                        break;
-                    case 3:
-                        $statusText = 'Đạt danh hiệu';
-                        break;
-                    case -1:
-                        $statusText = 'Không được đề nghị xét duyệt';
-                        break;
-                    case 4:
-                        $statusText = 'Không đạt danh hiệu';
-                        break;
-                    default:
-                        $statusText = 'Không xác định';
-                }
-                return [$statusText => $item->total];
-            });
+        });
+        $statusCounts = [];
+        foreach ([0, 1, 2, 3, -1, 4] as $s) {
+            $statusCounts[$s] = (clone $registerStatusQuery)->where('status', $s)->count();
+        }
+        $statusLabels = [
+            0 => 'Chờ xét duyệt',
+            1 => 'Đã xem',
+            2 => 'Được đề nghị xét duyệt',
+            3 => 'Đạt danh hiệu',
+            -1 => 'Không được đề nghị xét duyệt',
+            4 => 'Không đạt danh hiệu',
+        ];
+        $register_status = collect($statusLabels)->mapWithKeys(fn ($label, $s) => [$label => $statusCounts[$s] ?? 0]);
 
-        $status = AppellationRegister::when($level != 0, function ($query) use ($level) {
+        $statusQuery = AppellationRegister::when($level != 0, function ($query) use ($level) {
             $query->whereHas('user', function ($q) use ($level) {
                 $q->where('department_id', $level);
             });
-        })
-            ->select(\DB::raw('count(status) as totalStatus'), 'status')
-            ->groupBy('status')
-            ->get();
+        });
+        $status = collect([0, 1, 2, 3, -1, 4])->map(fn ($s) => (object)['totalStatus' => (clone $statusQuery)->where('status', $s)->count(), 'status' => $s])->filter(fn ($o) => $o->totalStatus > 0)->values();
 
         // Tổng số sinh viên theo khoa
         $total_student = User::where('type', 1)
@@ -125,24 +107,17 @@ class BackendController extends Controller
                 ->count();
         }
 
-        // Danh hiệu phổ biến (top 5) theo khoa
-        $popular_appellations = AppellationRegister::selectRaw('appellation_id, COUNT(*) as total')
-            ->when($level != 0, function ($query) use ($level) {
-                $query->whereHas('user', function ($q) use ($level) {
-                    $q->where('department_id', $level);
-                });
-            })
-            ->groupBy('appellation_id')
-            ->orderByDesc('total')
-            ->with('appellation')
-            ->take(5)
-            ->get()
-            ->map(function ($item) {
-                return [
-                    'name' => $item->appellation->name ?? 'Không xác định',
-                    'total' => $item->total
-                ];
+        // Danh hiệu phổ biến (top 5) theo khoa (MongoDB aggregation)
+        $popularBase = AppellationRegister::when($level != 0, function ($query) use ($level) {
+            $query->whereHas('user', function ($q) use ($level) {
+                $q->where('department_id', $level);
             });
+        });
+        $grouped = $popularBase->get()->groupBy('appellation_id')->map->count()->sortDesc()->take(5);
+        $popular_appellations = $grouped->map(function ($total, $appId) {
+            $app = Appellation::find($appId);
+            return ['name' => $app->name ?? 'Không xác định', 'total' => $total];
+        })->values()->all();
 
         // Lấy thông tin khoa hiện tại
         $current_department = null;

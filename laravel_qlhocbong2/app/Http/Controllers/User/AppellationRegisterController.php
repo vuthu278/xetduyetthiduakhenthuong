@@ -13,9 +13,8 @@ class AppellationRegisterController extends Controller
 {
     public function index(Request $request)
     {
-        $appellationsRegister = AppellationRegister::with('appellation:id,name,note')->whereRaw(1);
-
-        $appellationsRegister->where('user_id', get_data_user('web'));
+        $appellationsRegister = AppellationRegister::with('appellation:id,name,note')
+            ->where('user_id', get_data_user('web'));
 
         if ($request->filled('name')) {
             $appellationsRegister->whereHas('appellation', function ($query) use ($request) {
@@ -32,7 +31,7 @@ class AppellationRegisterController extends Controller
             $appellationsRegister->whereDate('created_at', '=', $request->register_date);
         }
 
-        $appellationsRegister = $appellationsRegister->orderByDesc('id')->paginate(20);
+        $appellationsRegister = $appellationsRegister->orderByDesc('_id')->paginate(20);
 
         return view('user.appellation_register.index', [
             'appellationsRegister' => $appellationsRegister,

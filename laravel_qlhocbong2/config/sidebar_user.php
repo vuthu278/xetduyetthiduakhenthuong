@@ -38,4 +38,16 @@ return [
             'user.appellation_register.create',    // form đăng ký
         ],
     ],
+    [
+        'name' => 'Hoạt động rèn luyện',
+        'route' => 'user.activity.index',
+        'segment' => ['activity'],
+        'active_routes' => ['user.activity.index'],
+    ],
+    [
+        'name' => 'Điểm rèn luyện',
+        'route' => 'user.drl.index',
+        'segment' => ['drl'],
+        'active_routes' => ['user.drl.index', 'user.drl.show'],
+    ],
 ];

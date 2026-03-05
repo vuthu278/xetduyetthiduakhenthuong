@@ -24,7 +24,7 @@ class DepartmentController extends Controller
             $departments->where('d_name', 'like', '%' . $request->d_name . '%');
         }
 
-        $departments = $departments->orderByDesc('id')->paginate(20);
+        $departments = $departments->orderByDesc('_id')->paginate(20);
 
         return view('backend.department.index', compact('departments'));
     }
